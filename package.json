@@ -1,0 +1,67 @@
+{
+  "name": "master-icon",
+  "version": "0.1.0",
+  "description": "A 24px SVG icon library with filled and linear styles.",
+  "type": "module",
+  "sideEffects": false,
+  "license": "MIT",
+  "author": "Li Yingjie",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/li-yingjie/MasterIcon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/li-yingjie/MasterIcon/issues"
+  },
+  "homepage": "https://github.com/li-yingjie/MasterIcon#readme",
+  "keywords": [
+    "icons",
+    "svg",
+    "react",
+    "icon-library",
+    "master-icon"
+  ],
+  "files": [
+    "dist",
+    "icons",
+    "metadata",
+    "LICENSE",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/react/index.d.ts",
+      "import": "./dist/react/index.js"
+    },
+    "./react": {
+      "types": "./dist/react/index.d.ts",
+      "import": "./dist/react/index.js"
+    },
+    "./react/*": {
+      "types": "./dist/react/*.d.ts",
+      "import": "./dist/react/*.js"
+    },
+    "./metadata": {
+      "types": "./dist/metadata.d.ts",
+      "import": "./dist/metadata.js"
+    },
+    "./icons.json": {
+      "default": "./metadata/icons.json"
+    },
+    "./svg/filled/*": "./icons/filled/*.svg",
+    "./svg/filled/*.svg": "./icons/filled/*.svg",
+    "./svg/linear/*": "./icons/linear/*.svg",
+    "./svg/linear/*.svg": "./icons/linear/*.svg"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "prepare": "node scripts/build.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18 || >=19"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
