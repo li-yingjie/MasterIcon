@@ -1,1 +1,6 @@
-<svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.49985 21L4.20696 17.7071C3.81643 17.3166 3.81643 16.6834 4.20696 16.2929L7.49985 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M16.5 11L19.7929 7.70711C20.1834 7.31658 20.1834 6.68342 19.7929 6.29289L16.5 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 17H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 7H19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path d="M19.9999 17L3.99994 17" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+  <path d="M17 14C17 14 19.9999 16.2095 19.9999 17C19.9999 17.7906 16.9999 20 16.9999 20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+  <path d="M4.99994 7L19.9999 7" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+  <path d="M6.99992 4C6.99992 4 3.99995 6.20947 3.99994 7.00002C3.99993 7.79058 6.99994 10 6.99994 10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+</svg>
