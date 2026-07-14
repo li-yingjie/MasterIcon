@@ -42685,6 +42685,152 @@
     }
   },
   {
+    "name": "director-toolbar-camera-video",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "camera",
+      "video"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-camera-video.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarCameraVideoLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-capture",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "capture"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-capture.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarCaptureLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-expand",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "expand"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-expand.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarExpandLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-move",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "move"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-move.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarMoveLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-panorama-720",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "panorama",
+      "720"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-panorama-720.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarPanorama720LinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-pen",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "pen"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-pen.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarPenLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-ratio",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "ratio"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-ratio.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarRatioLinearIcon"
+    }
+  },
+  {
+    "name": "director-toolbar-record",
+    "category": "general",
+    "tags": [
+      "director",
+      "toolbar",
+      "record"
+    ],
+    "styles": [
+      "linear"
+    ],
+    "files": {
+      "linear": "icons/linear/director-toolbar-record.svg"
+    },
+    "components": {
+      "linear": "DirectorToolbarRecordLinearIcon"
+    }
+  },
+  {
     "name": "dirham",
     "category": "general",
     "tags": [
