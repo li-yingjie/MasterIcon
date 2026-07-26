@@ -3147,6 +3147,25 @@
     }
   },
   {
+    "name": "albums2",
+    "category": "general",
+    "tags": [
+      "albums2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/albums2.svg",
+      "linear": "icons/linear/albums2.svg"
+    },
+    "components": {
+      "filled": "Albums2FilledIcon",
+      "linear": "Albums2LinearIcon"
+    }
+  },
+  {
     "name": "alert-01",
     "category": "general",
     "tags": [
@@ -8402,6 +8421,27 @@
     }
   },
   {
+    "name": "arrow-rotate-point",
+    "category": "general",
+    "tags": [
+      "arrow",
+      "rotate",
+      "point"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/arrow-rotate-point.svg",
+      "linear": "icons/linear/arrow-rotate-point.svg"
+    },
+    "components": {
+      "filled": "ArrowRotatePointFilledIcon",
+      "linear": "ArrowRotatePointLinearIcon"
+    }
+  },
+  {
     "name": "arrow-rotate-right-left",
     "category": "general",
     "tags": [
@@ -10336,6 +10376,25 @@
     },
     "components": {
       "linear": "AtSignLinearIcon"
+    }
+  },
+  {
+    "name": "atlassian",
+    "category": "general",
+    "tags": [
+      "atlassian"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/atlassian.svg",
+      "linear": "icons/linear/atlassian.svg"
+    },
+    "components": {
+      "filled": "AtlassianFilledIcon",
+      "linear": "AtlassianLinearIcon"
     }
   },
   {
@@ -12409,6 +12468,25 @@
     "components": {
       "filled": "BarsTwo2FilledIcon",
       "linear": "BarsTwo2LinearIcon"
+    }
+  },
+  {
+    "name": "base44",
+    "category": "general",
+    "tags": [
+      "base44"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/base44.svg",
+      "linear": "icons/linear/base44.svg"
+    },
+    "components": {
+      "filled": "Base44FilledIcon",
+      "linear": "Base44LinearIcon"
     }
   },
   {
@@ -16423,12 +16501,15 @@
       "heart"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/book-heart.svg",
       "linear": "icons/linear/book-heart.svg"
     },
     "components": {
+      "filled": "BookHeartFilledIcon",
       "linear": "BookHeartLinearIcon"
     }
   },
@@ -24915,6 +24996,26 @@
     }
   },
   {
+    "name": "card-nfc",
+    "category": "general",
+    "tags": [
+      "card",
+      "nfc"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/card-nfc.svg",
+      "linear": "icons/linear/card-nfc.svg"
+    },
+    "components": {
+      "filled": "CardNfcFilledIcon",
+      "linear": "CardNfcLinearIcon"
+    }
+  },
+  {
     "name": "card-sim",
     "category": "general",
     "tags": [
@@ -25396,12 +25497,15 @@
       "castle"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/castle.svg",
       "linear": "icons/linear/castle.svg"
     },
     "components": {
+      "filled": "CastleFilledIcon",
       "linear": "CastleLinearIcon"
     }
   },
@@ -35743,6 +35847,47 @@
     }
   },
   {
+    "name": "compass-pointer",
+    "category": "general",
+    "tags": [
+      "compass",
+      "pointer"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/compass-pointer.svg",
+      "linear": "icons/linear/compass-pointer.svg"
+    },
+    "components": {
+      "filled": "CompassPointerFilledIcon",
+      "linear": "CompassPointerLinearIcon"
+    }
+  },
+  {
+    "name": "compass-pointer-square",
+    "category": "general",
+    "tags": [
+      "compass",
+      "pointer",
+      "square"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/compass-pointer-square.svg",
+      "linear": "icons/linear/compass-pointer-square.svg"
+    },
+    "components": {
+      "filled": "CompassPointerSquareFilledIcon",
+      "linear": "CompassPointerSquareLinearIcon"
+    }
+  },
+  {
     "name": "compass-round",
     "category": "general",
     "tags": [
@@ -36448,6 +36593,25 @@
     }
   },
   {
+    "name": "confluence",
+    "category": "general",
+    "tags": [
+      "confluence"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/confluence.svg",
+      "linear": "icons/linear/confluence.svg"
+    },
+    "components": {
+      "filled": "ConfluenceFilledIcon",
+      "linear": "ConfluenceLinearIcon"
+    }
+  },
+  {
     "name": "confused",
     "category": "general",
     "tags": [
@@ -36965,6 +37129,90 @@
     "components": {
       "filled": "ControlKeyRightFilledIcon",
       "linear": "ControlKeyRightLinearIcon"
+    }
+  },
+  {
+    "name": "controller-button-circle",
+    "category": "general",
+    "tags": [
+      "controller",
+      "button",
+      "circle"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/controller-button-circle.svg",
+      "linear": "icons/linear/controller-button-circle.svg"
+    },
+    "components": {
+      "filled": "ControllerButtonCircleFilledIcon",
+      "linear": "ControllerButtonCircleLinearIcon"
+    }
+  },
+  {
+    "name": "controller-button-square",
+    "category": "general",
+    "tags": [
+      "controller",
+      "button",
+      "square"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/controller-button-square.svg",
+      "linear": "icons/linear/controller-button-square.svg"
+    },
+    "components": {
+      "filled": "ControllerButtonSquareFilledIcon",
+      "linear": "ControllerButtonSquareLinearIcon"
+    }
+  },
+  {
+    "name": "controller-button-triangle",
+    "category": "general",
+    "tags": [
+      "controller",
+      "button",
+      "triangle"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/controller-button-triangle.svg",
+      "linear": "icons/linear/controller-button-triangle.svg"
+    },
+    "components": {
+      "filled": "ControllerButtonTriangleFilledIcon",
+      "linear": "ControllerButtonTriangleLinearIcon"
+    }
+  },
+  {
+    "name": "controller-button-x",
+    "category": "general",
+    "tags": [
+      "controller",
+      "button",
+      "x"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/controller-button-x.svg",
+      "linear": "icons/linear/controller-button-x.svg"
+    },
+    "components": {
+      "filled": "ControllerButtonXFilledIcon",
+      "linear": "ControllerButtonXLinearIcon"
     }
   },
   {
@@ -38055,6 +38303,27 @@
     },
     "components": {
       "linear": "CreditCardFreezeLinearIcon"
+    }
+  },
+  {
+    "name": "credit-card-nfc",
+    "category": "general",
+    "tags": [
+      "credit",
+      "card",
+      "nfc"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/credit-card-nfc.svg",
+      "linear": "icons/linear/credit-card-nfc.svg"
+    },
+    "components": {
+      "filled": "CreditCardNfcFilledIcon",
+      "linear": "CreditCardNfcLinearIcon"
     }
   },
   {
@@ -40683,6 +40952,46 @@
     },
     "components": {
       "linear": "DatabaseZapLinearIcon"
+    }
+  },
+  {
+    "name": "databricks",
+    "category": "general",
+    "tags": [
+      "databricks"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/databricks.svg",
+      "linear": "icons/linear/databricks.svg"
+    },
+    "components": {
+      "filled": "DatabricksFilledIcon",
+      "linear": "DatabricksLinearIcon"
+    }
+  },
+  {
+    "name": "databricks-genie-code",
+    "category": "general",
+    "tags": [
+      "databricks",
+      "genie",
+      "code"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/databricks-genie-code.svg",
+      "linear": "icons/linear/databricks-genie-code.svg"
+    },
+    "components": {
+      "filled": "DatabricksGenieCodeFilledIcon",
+      "linear": "DatabricksGenieCodeLinearIcon"
     }
   },
   {
@@ -45705,6 +46014,25 @@
     }
   },
   {
+    "name": "earth2",
+    "category": "general",
+    "tags": [
+      "earth2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/earth2.svg",
+      "linear": "icons/linear/earth2.svg"
+    },
+    "components": {
+      "filled": "Earth2FilledIcon",
+      "linear": "Earth2LinearIcon"
+    }
+  },
+  {
     "name": "ease-curve-control-points",
     "category": "general",
     "tags": [
@@ -46701,6 +47029,126 @@
     }
   },
   {
+    "name": "email2-block",
+    "category": "general",
+    "tags": [
+      "email2",
+      "block"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-block.svg",
+      "linear": "icons/linear/email2-block.svg"
+    },
+    "components": {
+      "filled": "Email2BlockFilledIcon",
+      "linear": "Email2BlockLinearIcon"
+    }
+  },
+  {
+    "name": "email2-check",
+    "category": "general",
+    "tags": [
+      "email2",
+      "check"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-check.svg",
+      "linear": "icons/linear/email2-check.svg"
+    },
+    "components": {
+      "filled": "Email2CheckFilledIcon",
+      "linear": "Email2CheckLinearIcon"
+    }
+  },
+  {
+    "name": "email2-incoming",
+    "category": "general",
+    "tags": [
+      "email2",
+      "incoming"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-incoming.svg",
+      "linear": "icons/linear/email2-incoming.svg"
+    },
+    "components": {
+      "filled": "Email2IncomingFilledIcon",
+      "linear": "Email2IncomingLinearIcon"
+    }
+  },
+  {
+    "name": "email2-plus",
+    "category": "general",
+    "tags": [
+      "email2",
+      "plus"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-plus.svg",
+      "linear": "icons/linear/email2-plus.svg"
+    },
+    "components": {
+      "filled": "Email2PlusFilledIcon",
+      "linear": "Email2PlusLinearIcon"
+    }
+  },
+  {
+    "name": "email2-remove",
+    "category": "general",
+    "tags": [
+      "email2",
+      "remove"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-remove.svg",
+      "linear": "icons/linear/email2-remove.svg"
+    },
+    "components": {
+      "filled": "Email2RemoveFilledIcon",
+      "linear": "Email2RemoveLinearIcon"
+    }
+  },
+  {
+    "name": "email2-unread",
+    "category": "general",
+    "tags": [
+      "email2",
+      "unread"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/email2-unread.svg",
+      "linear": "icons/linear/email2-unread.svg"
+    },
+    "components": {
+      "filled": "Email2UnreadFilledIcon",
+      "linear": "Email2UnreadLinearIcon"
+    }
+  },
+  {
     "name": "email3",
     "category": "general",
     "tags": [
@@ -47201,6 +47649,25 @@
     },
     "components": {
       "linear": "EngineSlashLinearIcon"
+    }
+  },
+  {
+    "name": "enter",
+    "category": "general",
+    "tags": [
+      "enter"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/enter.svg",
+      "linear": "icons/linear/enter.svg"
+    },
+    "components": {
+      "filled": "EnterFilledIcon",
+      "linear": "EnterLinearIcon"
     }
   },
   {
@@ -48187,6 +48654,26 @@
     "components": {
       "filled": "Exposure2FilledIcon",
       "linear": "Exposure2LinearIcon"
+    }
+  },
+  {
+    "name": "extend-image",
+    "category": "general",
+    "tags": [
+      "extend",
+      "image"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/extend-image.svg",
+      "linear": "icons/linear/extend-image.svg"
+    },
+    "components": {
+      "filled": "ExtendImageFilledIcon",
+      "linear": "ExtendImageLinearIcon"
     }
   },
   {
@@ -53531,12 +54018,15 @@
       "edit"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/folder-edit.svg",
       "linear": "icons/linear/folder-edit.svg"
     },
     "components": {
+      "filled": "FolderEditFilledIcon",
       "linear": "FolderEditLinearIcon"
     }
   },
@@ -58717,12 +59207,15 @@
       "grid"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/grid.svg",
       "linear": "icons/linear/grid.svg"
     },
     "components": {
+      "filled": "GridFilledIcon",
       "linear": "GridLinearIcon"
     }
   },
@@ -58852,6 +59345,26 @@
     },
     "components": {
       "linear": "Grid3X3LinearIcon"
+    }
+  },
+  {
+    "name": "grid-box",
+    "category": "general",
+    "tags": [
+      "grid",
+      "box"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/grid-box.svg",
+      "linear": "icons/linear/grid-box.svg"
+    },
+    "components": {
+      "filled": "GridBoxFilledIcon",
+      "linear": "GridBoxLinearIcon"
     }
   },
   {
@@ -60032,6 +60545,26 @@
     },
     "components": {
       "linear": "HandSanitizerLinearIcon"
+    }
+  },
+  {
+    "name": "hand-touch",
+    "category": "general",
+    "tags": [
+      "hand",
+      "touch"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/hand-touch.svg",
+      "linear": "icons/linear/hand-touch.svg"
+    },
+    "components": {
+      "filled": "HandTouchFilledIcon",
+      "linear": "HandTouchLinearIcon"
     }
   },
   {
@@ -62227,6 +62760,26 @@
     "components": {
       "filled": "HomePersonalFeedFilledIcon",
       "linear": "HomePersonalFeedLinearIcon"
+    }
+  },
+  {
+    "name": "home-plus",
+    "category": "general",
+    "tags": [
+      "home",
+      "plus"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/home-plus.svg",
+      "linear": "icons/linear/home-plus.svg"
+    },
+    "components": {
+      "filled": "HomePlusFilledIcon",
+      "linear": "HomePlusLinearIcon"
     }
   },
   {
@@ -65794,6 +66347,25 @@
     }
   },
   {
+    "name": "jira",
+    "category": "general",
+    "tags": [
+      "jira"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/jira.svg",
+      "linear": "icons/linear/jira.svg"
+    },
+    "components": {
+      "filled": "JiraFilledIcon",
+      "linear": "JiraLinearIcon"
+    }
+  },
+  {
     "name": "job-link",
     "category": "general",
     "tags": [
@@ -68534,6 +69106,28 @@
     }
   },
   {
+    "name": "layout-align-left-right",
+    "category": "general",
+    "tags": [
+      "layout",
+      "align",
+      "left",
+      "right"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/layout-align-left-right.svg",
+      "linear": "icons/linear/layout-align-left-right.svg"
+    },
+    "components": {
+      "filled": "LayoutAlignLeftRightFilledIcon",
+      "linear": "LayoutAlignLeftRightLinearIcon"
+    }
+  },
+  {
     "name": "layout-align-right",
     "category": "general",
     "tags": [
@@ -68573,6 +69167,49 @@
     "components": {
       "filled": "LayoutAlignTopFilledIcon",
       "linear": "LayoutAlignTopLinearIcon"
+    }
+  },
+  {
+    "name": "layout-align-top-bottom",
+    "category": "general",
+    "tags": [
+      "layout",
+      "align",
+      "top",
+      "bottom"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/layout-align-top-bottom.svg",
+      "linear": "icons/linear/layout-align-top-bottom.svg"
+    },
+    "components": {
+      "filled": "LayoutAlignTopBottomFilledIcon",
+      "linear": "LayoutAlignTopBottomLinearIcon"
+    }
+  },
+  {
+    "name": "layout-all-sides",
+    "category": "general",
+    "tags": [
+      "layout",
+      "all",
+      "sides"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/layout-all-sides.svg",
+      "linear": "icons/linear/layout-all-sides.svg"
+    },
+    "components": {
+      "filled": "LayoutAllSidesFilledIcon",
+      "linear": "LayoutAllSidesLinearIcon"
     }
   },
   {
@@ -68733,6 +69370,27 @@
     }
   },
   {
+    "name": "layout-left-right",
+    "category": "general",
+    "tags": [
+      "layout",
+      "left",
+      "right"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/layout-left-right.svg",
+      "linear": "icons/linear/layout-left-right.svg"
+    },
+    "components": {
+      "filled": "LayoutLeftRightFilledIcon",
+      "linear": "LayoutLeftRightLinearIcon"
+    }
+  },
+  {
     "name": "layout-right",
     "category": "general",
     "tags": [
@@ -68882,6 +69540,27 @@
     "components": {
       "filled": "LayoutTopFilledIcon",
       "linear": "LayoutTopLinearIcon"
+    }
+  },
+  {
+    "name": "layout-top-bottom",
+    "category": "general",
+    "tags": [
+      "layout",
+      "top",
+      "bottom"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/layout-top-bottom.svg",
+      "linear": "icons/linear/layout-top-bottom.svg"
+    },
+    "components": {
+      "filled": "LayoutTopBottomFilledIcon",
+      "linear": "LayoutTopBottomLinearIcon"
     }
   },
   {
@@ -80875,6 +81554,27 @@
     }
   },
   {
+    "name": "move-folder-inside",
+    "category": "general",
+    "tags": [
+      "move",
+      "folder",
+      "inside"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/move-folder-inside.svg",
+      "linear": "icons/linear/move-folder-inside.svg"
+    },
+    "components": {
+      "filled": "MoveFolderInsideFilledIcon",
+      "linear": "MoveFolderInsideLinearIcon"
+    }
+  },
+  {
     "name": "move-left",
     "category": "general",
     "tags": [
@@ -88485,6 +89185,26 @@
     }
   },
   {
+    "name": "phone-haptic2",
+    "category": "general",
+    "tags": [
+      "phone",
+      "haptic2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/phone-haptic2.svg",
+      "linear": "icons/linear/phone-haptic2.svg"
+    },
+    "components": {
+      "filled": "PhoneHaptic2FilledIcon",
+      "linear": "PhoneHaptic2LinearIcon"
+    }
+  },
+  {
     "name": "phone-lock",
     "category": "general",
     "tags": [
@@ -89364,6 +90084,26 @@
     }
   },
   {
+    "name": "pin-focus",
+    "category": "general",
+    "tags": [
+      "pin",
+      "focus"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/pin-focus.svg",
+      "linear": "icons/linear/pin-focus.svg"
+    },
+    "components": {
+      "filled": "PinFocusFilledIcon",
+      "linear": "PinFocusLinearIcon"
+    }
+  },
+  {
     "name": "pin-location",
     "category": "general",
     "tags": [
@@ -89546,6 +90286,25 @@
     "components": {
       "filled": "PinterestSimpleFilledIcon",
       "linear": "PinterestSimpleLinearIcon"
+    }
+  },
+  {
+    "name": "pipe",
+    "category": "general",
+    "tags": [
+      "pipe"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/pipe.svg",
+      "linear": "icons/linear/pipe.svg"
+    },
+    "components": {
+      "filled": "PipeFilledIcon",
+      "linear": "PipeLinearIcon"
     }
   },
   {
@@ -90285,6 +91044,25 @@
     "components": {
       "filled": "Plugin2FilledIcon",
       "linear": "Plugin2LinearIcon"
+    }
+  },
+  {
+    "name": "plugins",
+    "category": "general",
+    "tags": [
+      "plugins"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/plugins.svg",
+      "linear": "icons/linear/plugins.svg"
+    },
+    "components": {
+      "filled": "PluginsFilledIcon",
+      "linear": "PluginsLinearIcon"
     }
   },
   {
@@ -91860,6 +92638,26 @@
     }
   },
   {
+    "name": "presentation-analytics",
+    "category": "general",
+    "tags": [
+      "presentation",
+      "analytics"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/presentation-analytics.svg",
+      "linear": "icons/linear/presentation-analytics.svg"
+    },
+    "components": {
+      "filled": "PresentationAnalyticsFilledIcon",
+      "linear": "PresentationAnalyticsLinearIcon"
+    }
+  },
+  {
     "name": "presentation-bar-chart-01",
     "category": "general",
     "tags": [
@@ -92090,6 +92888,25 @@
     },
     "components": {
       "linear": "PrinterXLinearIcon"
+    }
+  },
+  {
+    "name": "printer2",
+    "category": "general",
+    "tags": [
+      "printer2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/printer2.svg",
+      "linear": "icons/linear/printer2.svg"
+    },
+    "components": {
+      "filled": "Printer2FilledIcon",
+      "linear": "Printer2LinearIcon"
     }
   },
   {
@@ -93742,6 +94559,25 @@
     }
   },
   {
+    "name": "qwik",
+    "category": "general",
+    "tags": [
+      "qwik"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/qwik.svg",
+      "linear": "icons/linear/qwik.svg"
+    },
+    "components": {
+      "filled": "QwikFilledIcon",
+      "linear": "QwikLinearIcon"
+    }
+  },
+  {
     "name": "racing-flag",
     "category": "general",
     "tags": [
@@ -95160,6 +95996,25 @@
     },
     "components": {
       "linear": "ReflexLinearIcon"
+    }
+  },
+  {
+    "name": "reframe",
+    "category": "general",
+    "tags": [
+      "reframe"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/reframe.svg",
+      "linear": "icons/linear/reframe.svg"
+    },
+    "components": {
+      "filled": "ReframeFilledIcon",
+      "linear": "ReframeLinearIcon"
     }
   },
   {
@@ -97086,6 +97941,25 @@
     },
     "components": {
       "linear": "Rocket02LinearIcon"
+    }
+  },
+  {
+    "name": "rocket2",
+    "category": "general",
+    "tags": [
+      "rocket2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/rocket2.svg",
+      "linear": "icons/linear/rocket2.svg"
+    },
+    "components": {
+      "filled": "Rocket2FilledIcon",
+      "linear": "Rocket2LinearIcon"
     }
   },
   {
@@ -104957,6 +105831,26 @@
     }
   },
   {
+    "name": "siri-gen2",
+    "category": "general",
+    "tags": [
+      "siri",
+      "gen2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/siri-gen2.svg",
+      "linear": "icons/linear/siri-gen2.svg"
+    },
+    "components": {
+      "filled": "SiriGen2FilledIcon",
+      "linear": "SiriGen2LinearIcon"
+    }
+  },
+  {
     "name": "siri-new",
     "category": "general",
     "tags": [
@@ -110905,6 +111799,27 @@
     },
     "components": {
       "linear": "StopLossOrderLinearIcon"
+    }
+  },
+  {
+    "name": "stop-share-screen",
+    "category": "general",
+    "tags": [
+      "stop",
+      "share",
+      "screen"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/stop-share-screen.svg",
+      "linear": "icons/linear/stop-share-screen.svg"
+    },
+    "components": {
+      "filled": "StopShareScreenFilledIcon",
+      "linear": "StopShareScreenLinearIcon"
     }
   },
   {
@@ -118695,6 +119610,25 @@
     }
   },
   {
+    "name": "todoist",
+    "category": "general",
+    "tags": [
+      "todoist"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/todoist.svg",
+      "linear": "icons/linear/todoist.svg"
+    },
+    "components": {
+      "filled": "TodoistFilledIcon",
+      "linear": "TodoistLinearIcon"
+    }
+  },
+  {
     "name": "todos",
     "category": "general",
     "tags": [
@@ -119014,6 +119948,25 @@
     "components": {
       "filled": "ToqueFilledIcon",
       "linear": "ToqueLinearIcon"
+    }
+  },
+  {
+    "name": "torch",
+    "category": "general",
+    "tags": [
+      "torch"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/torch.svg",
+      "linear": "icons/linear/torch.svg"
+    },
+    "components": {
+      "filled": "TorchFilledIcon",
+      "linear": "TorchLinearIcon"
     }
   },
   {
@@ -127347,6 +128300,25 @@
     }
   },
   {
+    "name": "webhooks",
+    "category": "general",
+    "tags": [
+      "webhooks"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/webhooks.svg",
+      "linear": "icons/linear/webhooks.svg"
+    },
+    "components": {
+      "filled": "WebhooksFilledIcon",
+      "linear": "WebhooksLinearIcon"
+    }
+  },
+  {
     "name": "website",
     "category": "general",
     "tags": [
@@ -128336,6 +129308,110 @@
     "components": {
       "filled": "WindowSparkleFilledIcon",
       "linear": "WindowSparkleLinearIcon"
+    }
+  },
+  {
+    "name": "window-square",
+    "category": "general",
+    "tags": [
+      "window",
+      "square"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/window-square.svg",
+      "linear": "icons/linear/window-square.svg"
+    },
+    "components": {
+      "filled": "WindowSquareFilledIcon",
+      "linear": "WindowSquareLinearIcon"
+    }
+  },
+  {
+    "name": "window-square-delete",
+    "category": "general",
+    "tags": [
+      "window",
+      "square",
+      "delete"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/window-square-delete.svg",
+      "linear": "icons/linear/window-square-delete.svg"
+    },
+    "components": {
+      "filled": "WindowSquareDeleteFilledIcon",
+      "linear": "WindowSquareDeleteLinearIcon"
+    }
+  },
+  {
+    "name": "window-square-locked",
+    "category": "general",
+    "tags": [
+      "window",
+      "square",
+      "locked"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/window-square-locked.svg",
+      "linear": "icons/linear/window-square-locked.svg"
+    },
+    "components": {
+      "filled": "WindowSquareLockedFilledIcon",
+      "linear": "WindowSquareLockedLinearIcon"
+    }
+  },
+  {
+    "name": "window-square-plus",
+    "category": "general",
+    "tags": [
+      "window",
+      "square",
+      "plus"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/window-square-plus.svg",
+      "linear": "icons/linear/window-square-plus.svg"
+    },
+    "components": {
+      "filled": "WindowSquarePlusFilledIcon",
+      "linear": "WindowSquarePlusLinearIcon"
+    }
+  },
+  {
+    "name": "window-square-security",
+    "category": "general",
+    "tags": [
+      "window",
+      "square",
+      "security"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/window-square-security.svg",
+      "linear": "icons/linear/window-square-security.svg"
+    },
+    "components": {
+      "filled": "WindowSquareSecurityFilledIcon",
+      "linear": "WindowSquareSecurityLinearIcon"
     }
   },
   {

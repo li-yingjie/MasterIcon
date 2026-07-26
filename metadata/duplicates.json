@@ -84,6 +84,20 @@
     ]
   },
   {
+    "hash": "2680e115f8fad5da44eeba700c5c16dac6fcf0d556c06a7829cefdaa33572f5b",
+    "files": [
+      "icons/filled/atlassian.svg",
+      "icons/linear/atlassian.svg"
+    ]
+  },
+  {
+    "hash": "1911bf0b6234c9e554d8eb1e1e4122cbf7062cfba0c5ce2f5f2a22099222a3d0",
+    "files": [
+      "icons/filled/base44.svg",
+      "icons/linear/base44.svg"
+    ]
+  },
+  {
     "hash": "704b67f86830fecadb5b4c883fb20d8379c21b15b82de0a7e066d445a6a02a89",
     "files": [
       "icons/filled/behance.svg",
@@ -140,6 +154,13 @@
     ]
   },
   {
+    "hash": "c5ce257fc7ec8146a41fa416e523a206326261ccd874c7a969c8918401f52519",
+    "files": [
+      "icons/filled/confluence.svg",
+      "icons/linear/confluence.svg"
+    ]
+  },
+  {
     "hash": "edf0fc0d981cf42e1d40e76326672e1bed09cc2e69ca9a3efb832d7fe97b2b52",
     "files": [
       "icons/filled/cosmos.svg",
@@ -151,6 +172,20 @@
     "files": [
       "icons/filled/cursor.svg",
       "icons/linear/cursor.svg"
+    ]
+  },
+  {
+    "hash": "a22aafc29fb18342bb9a7453f488bc30929eb19ff9733e881f06595b2fca2aed",
+    "files": [
+      "icons/filled/databricks-genie-code.svg",
+      "icons/linear/databricks-genie-code.svg"
+    ]
+  },
+  {
+    "hash": "570a5f030c2007dd2ca54159474aac9dc3c6cc3c4fc3079dd0a9ba0dd3935f5a",
+    "files": [
+      "icons/filled/databricks.svg",
+      "icons/linear/databricks.svg"
     ]
   },
   {
@@ -368,6 +403,13 @@
     "files": [
       "icons/filled/javascript.svg",
       "icons/linear/javascript.svg"
+    ]
+  },
+  {
+    "hash": "2ffac2209906b4d08d6729f5aa3a4f89c29b145796efffefdce92067f276ed8c",
+    "files": [
+      "icons/filled/jira.svg",
+      "icons/linear/jira.svg"
     ]
   },
   {
@@ -623,6 +665,13 @@
     ]
   },
   {
+    "hash": "e200a71abe7542f75561bf9860eebd3b37ebab70e721dff97a2475fab9ddbecb",
+    "files": [
+      "icons/filled/qwik.svg",
+      "icons/linear/qwik.svg"
+    ]
+  },
+  {
     "hash": "ffc374495e49b4357b22b967b51c074bc4c628500f617f34f6f19bcff1079843",
     "files": [
       "icons/filled/recraft.svg",
@@ -714,6 +763,13 @@
     ]
   },
   {
+    "hash": "a524cf7ba34018ca9085dda4b3db5fedab6498fbc5bb582081ff5d6f46c72987",
+    "files": [
+      "icons/filled/siri-gen2.svg",
+      "icons/linear/siri-gen2.svg"
+    ]
+  },
+  {
     "hash": "b038a4031b45bdcba717cb645c902987c05b49f6ef0376752d5aa5656339798e",
     "files": [
       "icons/filled/solidjs.svg",
@@ -788,6 +844,13 @@
     "files": [
       "icons/filled/title-case.svg",
       "icons/linear/title-case.svg"
+    ]
+  },
+  {
+    "hash": "06f27d347d45bd1c45a76a31d105268e03d36e904cbf9b4489b8986b1dbf0340",
+    "files": [
+      "icons/filled/todoist.svg",
+      "icons/linear/todoist.svg"
     ]
   },
   {
