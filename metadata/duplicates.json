@@ -371,6 +371,13 @@
     ]
   },
   {
+    "hash": "1a239cc630ea2e38d6712fd0cceb097a0e19555ec1125df227e537f95766df43",
+    "files": [
+      "icons/filled/helium.svg",
+      "icons/linear/helium.svg"
+    ]
+  },
+  {
     "hash": "42d342ad2f62e24a94981907dd2156f66ce250abe9ac27c5cfce705d575932b5",
     "files": [
       "icons/filled/iconists.svg",
@@ -417,6 +424,13 @@
     "files": [
       "icons/filled/json.svg",
       "icons/linear/json.svg"
+    ]
+  },
+  {
+    "hash": "55115abcdf07f6a91b9d9965358b066c40bddbcf033710c26560560944eed9b6",
+    "files": [
+      "icons/filled/kimi.svg",
+      "icons/linear/kimi.svg"
     ]
   },
   {
@@ -497,10 +511,24 @@
     ]
   },
   {
+    "hash": "c9b9eb2ef0c73856968269de63e922ea8121c254c3d86fefa2f0840005372db9",
+    "files": [
+      "icons/filled/minimax.svg",
+      "icons/linear/minimax.svg"
+    ]
+  },
+  {
     "hash": "0329c64b14ef0c9fb748090fafefa884f2f4e461b4e0e1a6b879f0a502452241",
     "files": [
       "icons/filled/modelcontextprotocol.svg",
       "icons/linear/modelcontextprotocol.svg"
+    ]
+  },
+  {
+    "hash": "e870fdef11fcee3d8b0a4b2ca354adaf865d979018d7d61a1fe217aefe789a68",
+    "files": [
+      "icons/filled/muse.svg",
+      "icons/linear/muse.svg"
     ]
   },
   {
@@ -665,6 +693,13 @@
     ]
   },
   {
+    "hash": "66d40d333f8aadbfbd5a08a8f04222aec411e8b7c157eb2ad2fb7e03c4e9ebe6",
+    "files": [
+      "icons/filled/qwen.svg",
+      "icons/linear/qwen.svg"
+    ]
+  },
+  {
     "hash": "e200a71abe7542f75561bf9860eebd3b37ebab70e721dff97a2475fab9ddbecb",
     "files": [
       "icons/filled/qwik.svg",
@@ -774,6 +809,13 @@
     "files": [
       "icons/filled/solidjs.svg",
       "icons/linear/solidjs.svg"
+    ]
+  },
+  {
+    "hash": "9d8874492221d3b923eada8740944f37488a9271a41f9ad9717ab2bf12a3133b",
+    "files": [
+      "icons/filled/spacexai.svg",
+      "icons/linear/spacexai.svg"
     ]
   },
   {
@@ -921,6 +963,13 @@
     "files": [
       "icons/filled/xbox.svg",
       "icons/linear/xbox.svg"
+    ]
+  },
+  {
+    "hash": "53e612b1840da4105f49ca1b32c64c661d354d6dcc88c4f64366adf96ef640ca",
+    "files": [
+      "icons/filled/zai.svg",
+      "icons/linear/zai.svg"
     ]
   },
   {

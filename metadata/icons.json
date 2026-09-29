@@ -1227,6 +1227,49 @@
     }
   },
   {
+    "name": "ai-bot-head",
+    "category": "general",
+    "tags": [
+      "ai",
+      "bot",
+      "head"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/ai-bot-head.svg",
+      "linear": "icons/linear/ai-bot-head.svg"
+    },
+    "components": {
+      "filled": "AiBotHeadFilledIcon",
+      "linear": "AiBotHeadLinearIcon"
+    }
+  },
+  {
+    "name": "ai-bot-head-looking",
+    "category": "general",
+    "tags": [
+      "ai",
+      "bot",
+      "head",
+      "looking"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/ai-bot-head-looking.svg",
+      "linear": "icons/linear/ai-bot-head-looking.svg"
+    },
+    "components": {
+      "filled": "AiBotHeadLookingFilledIcon",
+      "linear": "AiBotHeadLookingLinearIcon"
+    }
+  },
+  {
     "name": "ai-brain-01",
     "category": "general",
     "tags": [
@@ -2160,6 +2203,27 @@
     }
   },
   {
+    "name": "ai-slop-sign",
+    "category": "general",
+    "tags": [
+      "ai",
+      "slop",
+      "sign"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/ai-slop-sign.svg",
+      "linear": "icons/linear/ai-slop-sign.svg"
+    },
+    "components": {
+      "filled": "AiSlopSignFilledIcon",
+      "linear": "AiSlopSignLinearIcon"
+    }
+  },
+  {
     "name": "ai-smartwatch",
     "category": "general",
     "tags": [
@@ -2677,6 +2741,48 @@
     "components": {
       "filled": "AirplaneUpFilledIcon",
       "linear": "AirplaneUpLinearIcon"
+    }
+  },
+  {
+    "name": "airplane-window-closed",
+    "category": "general",
+    "tags": [
+      "airplane",
+      "window",
+      "closed"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/airplane-window-closed.svg",
+      "linear": "icons/linear/airplane-window-closed.svg"
+    },
+    "components": {
+      "filled": "AirplaneWindowClosedFilledIcon",
+      "linear": "AirplaneWindowClosedLinearIcon"
+    }
+  },
+  {
+    "name": "airplane-window-open",
+    "category": "general",
+    "tags": [
+      "airplane",
+      "window",
+      "open"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/airplane-window-open.svg",
+      "linear": "icons/linear/airplane-window-open.svg"
+    },
+    "components": {
+      "filled": "AirplaneWindowOpenFilledIcon",
+      "linear": "AirplaneWindowOpenLinearIcon"
     }
   },
   {
@@ -12077,12 +12183,15 @@
       "bandage"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/bandage.svg",
       "linear": "icons/linear/bandage.svg"
     },
     "components": {
+      "filled": "BandageFilledIcon",
       "linear": "BandageLinearIcon"
     }
   },
@@ -13528,6 +13637,26 @@
     }
   },
   {
+    "name": "bell-active",
+    "category": "general",
+    "tags": [
+      "bell",
+      "active"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/bell-active.svg",
+      "linear": "icons/linear/bell-active.svg"
+    },
+    "components": {
+      "filled": "BellActiveFilledIcon",
+      "linear": "BellActiveLinearIcon"
+    }
+  },
+  {
     "name": "bell-check",
     "category": "general",
     "tags": [
@@ -13669,6 +13798,46 @@
     "components": {
       "filled": "Bell2FilledIcon",
       "linear": "Bell2LinearIcon"
+    }
+  },
+  {
+    "name": "bell2-active",
+    "category": "general",
+    "tags": [
+      "bell2",
+      "active"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/bell2-active.svg",
+      "linear": "icons/linear/bell2-active.svg"
+    },
+    "components": {
+      "filled": "Bell2ActiveFilledIcon",
+      "linear": "Bell2ActiveLinearIcon"
+    }
+  },
+  {
+    "name": "bell2-off",
+    "category": "general",
+    "tags": [
+      "bell2",
+      "off"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/bell2-off.svg",
+      "linear": "icons/linear/bell2-off.svg"
+    },
+    "components": {
+      "filled": "Bell2OffFilledIcon",
+      "linear": "Bell2OffLinearIcon"
     }
   },
   {
@@ -27299,6 +27468,25 @@
     }
   },
   {
+    "name": "chart8",
+    "category": "general",
+    "tags": [
+      "chart8"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/chart8.svg",
+      "linear": "icons/linear/chart8.svg"
+    },
+    "components": {
+      "filled": "Chart8FilledIcon",
+      "linear": "Chart8LinearIcon"
+    }
+  },
+  {
     "name": "chat",
     "category": "general",
     "tags": [
@@ -29254,6 +29442,28 @@
     }
   },
   {
+    "name": "chevron-grabber-horizontal-toward",
+    "category": "general",
+    "tags": [
+      "chevron",
+      "grabber",
+      "horizontal",
+      "toward"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/chevron-grabber-horizontal-toward.svg",
+      "linear": "icons/linear/chevron-grabber-horizontal-toward.svg"
+    },
+    "components": {
+      "filled": "ChevronGrabberHorizontalTowardFilledIcon",
+      "linear": "ChevronGrabberHorizontalTowardLinearIcon"
+    }
+  },
+  {
     "name": "chevron-grabber-vertical",
     "category": "general",
     "tags": [
@@ -29272,6 +29482,28 @@
     "components": {
       "filled": "ChevronGrabberVerticalFilledIcon",
       "linear": "ChevronGrabberVerticalLinearIcon"
+    }
+  },
+  {
+    "name": "chevron-grabber-vertical-toward",
+    "category": "general",
+    "tags": [
+      "chevron",
+      "grabber",
+      "vertical",
+      "toward"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/chevron-grabber-vertical-toward.svg",
+      "linear": "icons/linear/chevron-grabber-vertical-toward.svg"
+    },
+    "components": {
+      "filled": "ChevronGrabberVerticalTowardFilledIcon",
+      "linear": "ChevronGrabberVerticalTowardLinearIcon"
     }
   },
   {
@@ -36487,6 +36719,26 @@
     "components": {
       "filled": "ConciseFilledIcon",
       "linear": "ConciseLinearIcon"
+    }
+  },
+  {
+    "name": "conditional-logic",
+    "category": "general",
+    "tags": [
+      "conditional",
+      "logic"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/conditional-logic.svg",
+      "linear": "icons/linear/conditional-logic.svg"
+    },
+    "components": {
+      "filled": "ConditionalLogicFilledIcon",
+      "linear": "ConditionalLogicLinearIcon"
     }
   },
   {
@@ -61751,6 +62003,25 @@
     }
   },
   {
+    "name": "helium",
+    "category": "general",
+    "tags": [
+      "helium"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/helium.svg",
+      "linear": "icons/linear/helium.svg"
+    },
+    "components": {
+      "filled": "HeliumFilledIcon",
+      "linear": "HeliumLinearIcon"
+    }
+  },
+  {
     "name": "help-circle",
     "category": "general",
     "tags": [
@@ -66133,6 +66404,26 @@
     }
   },
   {
+    "name": "iphone-duo",
+    "category": "general",
+    "tags": [
+      "iphone",
+      "duo"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/iphone-duo.svg",
+      "linear": "icons/linear/iphone-duo.svg"
+    },
+    "components": {
+      "filled": "IphoneDuoFilledIcon",
+      "linear": "IphoneDuoLinearIcon"
+    }
+  },
+  {
     "name": "ipod",
     "category": "general",
     "tags": [
@@ -67569,6 +67860,25 @@
     },
     "components": {
       "linear": "KidneysLinearIcon"
+    }
+  },
+  {
+    "name": "kimi",
+    "category": "general",
+    "tags": [
+      "kimi"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/kimi.svg",
+      "linear": "icons/linear/kimi.svg"
+    },
+    "components": {
+      "filled": "KimiFilledIcon",
+      "linear": "KimiLinearIcon"
     }
   },
   {
@@ -78167,6 +78477,25 @@
     }
   },
   {
+    "name": "minimax",
+    "category": "general",
+    "tags": [
+      "minimax"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/minimax.svg",
+      "linear": "icons/linear/minimax.svg"
+    },
+    "components": {
+      "filled": "MinimaxFilledIcon",
+      "linear": "MinimaxLinearIcon"
+    }
+  },
+  {
     "name": "minimize",
     "category": "general",
     "tags": [
@@ -81800,6 +82129,25 @@
     },
     "components": {
       "linear": "MultiplicationSignSquareLinearIcon"
+    }
+  },
+  {
+    "name": "muse",
+    "category": "general",
+    "tags": [
+      "muse"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/muse.svg",
+      "linear": "icons/linear/muse.svg"
+    },
+    "components": {
+      "filled": "MuseFilledIcon",
+      "linear": "MuseLinearIcon"
     }
   },
   {
@@ -94156,6 +94504,45 @@
     }
   },
   {
+    "name": "questionmark",
+    "category": "general",
+    "tags": [
+      "questionmark"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/questionmark.svg",
+      "linear": "icons/linear/questionmark.svg"
+    },
+    "components": {
+      "filled": "QuestionmarkFilledIcon",
+      "linear": "QuestionmarkLinearIcon"
+    }
+  },
+  {
+    "name": "questionmark-circle",
+    "category": "general",
+    "tags": [
+      "questionmark",
+      "circle"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/questionmark-circle.svg",
+      "linear": "icons/linear/questionmark-circle.svg"
+    },
+    "components": {
+      "filled": "QuestionmarkCircleFilledIcon",
+      "linear": "QuestionmarkCircleLinearIcon"
+    }
+  },
+  {
     "name": "queue-01",
     "category": "general",
     "tags": [
@@ -94549,12 +94936,15 @@
       "qwen"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/qwen.svg",
       "linear": "icons/linear/qwen.svg"
     },
     "components": {
+      "filled": "QwenFilledIcon",
       "linear": "QwenLinearIcon"
     }
   },
@@ -95983,6 +96373,26 @@
     }
   },
   {
+    "name": "reference-image",
+    "category": "general",
+    "tags": [
+      "reference",
+      "image"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/reference-image.svg",
+      "linear": "icons/linear/reference-image.svg"
+    },
+    "components": {
+      "filled": "ReferenceImageFilledIcon",
+      "linear": "ReferenceImageLinearIcon"
+    }
+  },
+  {
     "name": "reflex",
     "category": "general",
     "tags": [
@@ -96884,6 +97294,25 @@
     },
     "components": {
       "linear": "ResetPasswordLinearIcon"
+    }
+  },
+  {
+    "name": "resize",
+    "category": "general",
+    "tags": [
+      "resize"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/resize.svg",
+      "linear": "icons/linear/resize.svg"
+    },
+    "components": {
+      "filled": "ResizeFilledIcon",
+      "linear": "ResizeLinearIcon"
     }
   },
   {
@@ -99735,12 +100164,15 @@
       "saturn"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/saturn.svg",
       "linear": "icons/linear/saturn.svg"
     },
     "components": {
+      "filled": "SaturnFilledIcon",
       "linear": "SaturnLinearIcon"
     }
   },
@@ -103458,6 +103890,27 @@
     }
   },
   {
+    "name": "shield-safe-search",
+    "category": "general",
+    "tags": [
+      "shield",
+      "safe",
+      "search"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/shield-safe-search.svg",
+      "linear": "icons/linear/shield-safe-search.svg"
+    },
+    "components": {
+      "filled": "ShieldSafeSearchFilledIcon",
+      "linear": "ShieldSafeSearchLinearIcon"
+    }
+  },
+  {
     "name": "shield-search",
     "category": "general",
     "tags": [
@@ -103485,12 +103938,15 @@
       "user"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/shield-user.svg",
       "linear": "icons/linear/shield-user.svg"
     },
     "components": {
+      "filled": "ShieldUserFilledIcon",
       "linear": "ShieldUserLinearIcon"
     }
   },
@@ -105621,6 +106077,26 @@
     "components": {
       "filled": "SimCard2FilledIcon",
       "linear": "SimCard2LinearIcon"
+    }
+  },
+  {
+    "name": "sim-chip",
+    "category": "general",
+    "tags": [
+      "sim",
+      "chip"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/sim-chip.svg",
+      "linear": "icons/linear/sim-chip.svg"
+    },
+    "components": {
+      "filled": "SimChipFilledIcon",
+      "linear": "SimChipLinearIcon"
     }
   },
   {
@@ -107905,6 +108381,25 @@
     }
   },
   {
+    "name": "spacexai",
+    "category": "general",
+    "tags": [
+      "spacexai"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/spacexai.svg",
+      "linear": "icons/linear/spacexai.svg"
+    },
+    "components": {
+      "filled": "SpacexaiFilledIcon",
+      "linear": "SpacexaiLinearIcon"
+    }
+  },
+  {
     "name": "spades",
     "category": "general",
     "tags": [
@@ -108623,12 +109118,15 @@
       "spotlight"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/spotlight.svg",
       "linear": "icons/linear/spotlight.svg"
     },
     "components": {
+      "filled": "SpotlightFilledIcon",
       "linear": "SpotlightLinearIcon"
     }
   },
@@ -117486,6 +117984,26 @@
     },
     "components": {
       "linear": "TextFootnoteLinearIcon"
+    }
+  },
+  {
+    "name": "text-highlight",
+    "category": "general",
+    "tags": [
+      "text",
+      "highlight"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/text-highlight.svg",
+      "linear": "icons/linear/text-highlight.svg"
+    },
+    "components": {
+      "filled": "TextHighlightFilledIcon",
+      "linear": "TextHighlightLinearIcon"
     }
   },
   {
@@ -127976,13 +128494,36 @@
       "wave"
     ],
     "styles": [
+      "filled",
       "linear"
     ],
     "files": {
+      "filled": "icons/filled/wave.svg",
       "linear": "icons/linear/wave.svg"
     },
     "components": {
+      "filled": "WaveFilledIcon",
       "linear": "WaveLinearIcon"
+    }
+  },
+  {
+    "name": "wave-round2",
+    "category": "general",
+    "tags": [
+      "wave",
+      "round2"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/wave-round2.svg",
+      "linear": "icons/linear/wave-round2.svg"
+    },
+    "components": {
+      "filled": "WaveRound2FilledIcon",
+      "linear": "WaveRound2LinearIcon"
     }
   },
   {
@@ -130849,6 +131390,25 @@
     },
     "components": {
       "linear": "YurtLinearIcon"
+    }
+  },
+  {
+    "name": "zai",
+    "category": "general",
+    "tags": [
+      "zai"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/zai.svg",
+      "linear": "icons/linear/zai.svg"
+    },
+    "components": {
+      "filled": "ZaiFilledIcon",
+      "linear": "ZaiLinearIcon"
     }
   },
   {
