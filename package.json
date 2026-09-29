@@ -26,7 +26,6 @@
     "icons",
     "metadata",
     "LICENSE",
-    "THIRD_PARTY_LICENSES.md",
     "README.md"
   ],
   "exports": {
@@ -57,7 +56,6 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
-    "import:hugeicons": "node scripts/import-hugeicons.mjs",
     "prepare": "node scripts/build.mjs"
   },
   "peerDependencies": {

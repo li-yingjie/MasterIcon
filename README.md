@@ -3,7 +3,7 @@
 Master Icon is a 24px SVG icon library with two visual styles:
 
 - `filled`
-- `linear` (including the complete Hugeicons free Stroke Rounded set at 2px stroke)
+- `linear`
 
 The source SVG files are organized for direct asset imports, and the build script generates React components plus machine-readable metadata.
 
@@ -88,14 +88,6 @@ npm pack --dry-run
 - Every icon must use `currentColor`.
 - Every filled icon must have a `linear` variant. Linear-only icons are supported.
 - Add new SVGs under `icons/filled` or `icons/linear`, then run `npm run build && npm run check`.
-
-## Hugeicons
-
-The `linear` collection includes 5,471 icons imported from
-`@hugeicons/core-free-icons@4.2.2` (Stroke Rounded), normalized to a 24×24
-viewBox and a 2px stroke. The source package is MIT licensed; see
-[`THIRD_PARTY_LICENSES.md`](./THIRD_PARTY_LICENSES.md) and
-[`metadata/hugeicons-source.json`](./metadata/hugeicons-source.json).
 
 ## Trademark Notice
 

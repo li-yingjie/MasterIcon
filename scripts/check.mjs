@@ -66,21 +66,6 @@ if (!metadataExists) {
   errors.push("metadata/icons.json has not been generated. Run npm run build.");
 }
 
-const hugeiconsSourceFile = new URL("metadata/hugeicons-source.json", root);
-if (await fileExists(hugeiconsSourceFile)) {
-  const hugeiconsSource = JSON.parse(await readFile(hugeiconsSourceFile, "utf8"));
-  if (hugeiconsSource.icons.length !== hugeiconsSource.count) {
-    errors.push("metadata/hugeicons-source.json count does not match its icon list");
-  }
-  for (const name of hugeiconsSource.icons) {
-    const svg = await readFile(new URL(`icons/linear/${name}.svg`, root), "utf8");
-    const strokeWidths = [...svg.matchAll(/stroke-width="([^"]+)"/g)].map((match) => match[1]);
-    if (strokeWidths.some((width) => width !== "2")) {
-      errors.push(`icons/linear/${name}.svg is not consistently 2px stroke`);
-    }
-  }
-}
-
 if (errors.length > 0) {
   console.error(errors.join("\n"));
   process.exit(1);
