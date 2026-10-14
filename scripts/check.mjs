@@ -66,6 +66,33 @@ if (!metadataExists) {
   errors.push("metadata/icons.json has not been generated. Run npm run build.");
 }
 
+const sourceMetadata = JSON.parse(
+  await readFile(new URL("metadata/central-icons-source.json", root), "utf8")
+);
+const sourceEntries = Object.entries(sourceMetadata.icons);
+if (sourceEntries.length !== sourceMetadata.count) {
+  errors.push("metadata/central-icons-source.json count does not match its icon records");
+}
+
+const generatedMetadata = metadataExists
+  ? JSON.parse(await readFile(new URL("metadata/icons.json", root), "utf8"))
+  : [];
+const generatedByName = new Map(generatedMetadata.map((icon) => [icon.name, icon]));
+
+for (const [name, source] of sourceEntries) {
+  const icon = generatedByName.get(name);
+  if (!icon) {
+    errors.push(`Central Icons metadata references missing icon: ${name}`);
+    continue;
+  }
+  if (icon.category !== source.category) {
+    errors.push(`Category mismatch for ${name}`);
+  }
+  if (JSON.stringify(icon.aliases) !== JSON.stringify(source.aliases)) {
+    errors.push(`Alias mismatch for ${name}`);
+  }
+}
+
 if (errors.length > 0) {
   console.error(errors.join("\n"));
   process.exit(1);

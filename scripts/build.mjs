@@ -8,6 +8,10 @@ const iconRoot = new URL("icons/", root);
 const metadataRoot = new URL("metadata/", root);
 const distRoot = new URL("dist/", root);
 const reactRoot = new URL("dist/react/", root);
+const centralIconsSource = JSON.parse(
+  await readFile(new URL("central-icons-source.json", metadataRoot), "utf8")
+);
+const centralIconsByName = new Map(Object.entries(centralIconsSource.icons));
 
 const styleSuffix = {
   filled: "Filled",
@@ -25,7 +29,8 @@ const toPascalCase = (value) => {
 
 const componentName = (name, style) => `${toPascalCase(name)}${styleSuffix[style]}Icon`;
 
-const tagsFor = (name) => Array.from(new Set(name.split(/[-_]+/).filter(Boolean)));
+const tagsFor = (name, aliases) =>
+  Array.from(new Set([...name.split(/[-_]+/).filter(Boolean), ...aliases]));
 
 const svgInner = (svg, filePath) => {
   const match = svg.match(/<svg\b[^>]*>([\s\S]*?)<\/svg>\s*$/);
@@ -53,10 +58,14 @@ const readIcons = async () => {
       const hash = sha256(svg);
 
       if (!byName.has(name)) {
+        const source = centralIconsByName.get(name);
+        const aliases = source?.aliases ?? [];
         byName.set(name, {
           name,
-          category: "general",
-          tags: tagsFor(name),
+          canonicalName: source?.canonicalName ?? name,
+          category: source?.category ?? "general",
+          aliases,
+          tags: tagsFor(name, aliases),
           styles: [],
           files: {},
           components: {}
@@ -121,7 +130,9 @@ export { icons };
     new URL("metadata.d.ts", distRoot),
     `export interface IconMetadata {
   name: string;
+  canonicalName: string;
   category: string;
+  aliases: string[];
   tags: string[];
   styles: Array<"filled" | "linear">;
   files: Partial<Record<"filled" | "linear", string>>;

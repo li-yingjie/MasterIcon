@@ -52,7 +52,9 @@ import addImageFilled from "master-icon/svg/filled/add-image.svg";
 import icons from "master-icon/metadata";
 ```
 
-The generated metadata is available at `metadata/icons.json`.
+The generated metadata is available at `metadata/icons.json`. It includes each
+icon's canonical website name, category, and search aliases. The versioned
+source data is stored in `metadata/central-icons-source.json`.
 
 ## Project Structure
 
