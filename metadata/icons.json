@@ -646,6 +646,32 @@
     }
   },
   {
+    "name": "ai-harness-diamond",
+    "canonicalName": "ai-harness-diamond",
+    "category": "AI & Magic",
+    "aliases": [
+      "ai-harness-diamond"
+    ],
+    "tags": [
+      "ai",
+      "harness",
+      "diamond",
+      "ai-harness-diamond"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/ai-harness-diamond.svg",
+      "linear": "icons/linear/ai-harness-diamond.svg"
+    },
+    "components": {
+      "filled": "AiHarnessDiamondFilledIcon",
+      "linear": "AiHarnessDiamondLinearIcon"
+    }
+  },
+  {
     "name": "ai-slop",
     "canonicalName": "ai-slop",
     "category": "AI & Magic",
@@ -1559,6 +1585,29 @@
     }
   },
   {
+    "name": "android",
+    "canonicalName": "android",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "android"
+    ],
+    "tags": [
+      "android"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/android.svg",
+      "linear": "icons/linear/android.svg"
+    },
+    "components": {
+      "filled": "AndroidFilledIcon",
+      "linear": "AndroidLinearIcon"
+    }
+  },
+  {
     "name": "angularjs",
     "canonicalName": "angularjs",
     "category": "Social Media & Brands",
@@ -2200,6 +2249,31 @@
     "components": {
       "filled": "AppleNewtonFilledIcon",
       "linear": "AppleNewtonLinearIcon"
+    }
+  },
+  {
+    "name": "apple-pay",
+    "canonicalName": "apple-pay",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "apple-pay"
+    ],
+    "tags": [
+      "apple",
+      "pay",
+      "apple-pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/apple-pay.svg",
+      "linear": "icons/linear/apple-pay.svg"
+    },
+    "components": {
+      "filled": "ApplePayFilledIcon",
+      "linear": "ApplePayLinearIcon"
     }
   },
   {
@@ -6546,6 +6620,31 @@
     }
   },
   {
+    "name": "beauty",
+    "canonicalName": "beauty",
+    "category": "Things",
+    "aliases": [
+      "beauty",
+      "mirror"
+    ],
+    "tags": [
+      "beauty",
+      "mirror"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/beauty.svg",
+      "linear": "icons/linear/beauty.svg"
+    },
+    "components": {
+      "filled": "BeautyFilledIcon",
+      "linear": "BeautyLinearIcon"
+    }
+  },
+  {
     "name": "beceps-left-arm",
     "canonicalName": "beceps-left-arm",
     "category": "Hands",
@@ -8514,6 +8613,33 @@
     }
   },
   {
+    "name": "boxing",
+    "canonicalName": "boxing",
+    "category": "Sports",
+    "aliases": [
+      "boxing",
+      "fighting",
+      "power"
+    ],
+    "tags": [
+      "boxing",
+      "fighting",
+      "power"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/boxing.svg",
+      "linear": "icons/linear/boxing.svg"
+    },
+    "components": {
+      "filled": "BoxingFilledIcon",
+      "linear": "BoxingLinearIcon"
+    }
+  },
+  {
     "name": "brackets1",
     "canonicalName": "brackets-1",
     "category": "Code",
@@ -10226,6 +10352,35 @@
     }
   },
   {
+    "name": "button-check",
+    "canonicalName": "button-check",
+    "category": "Things",
+    "aliases": [
+      "button-check",
+      "save",
+      "actions"
+    ],
+    "tags": [
+      "button",
+      "check",
+      "button-check",
+      "save",
+      "actions"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/button-check.svg",
+      "linear": "icons/linear/button-check.svg"
+    },
+    "components": {
+      "filled": "ButtonCheckFilledIcon",
+      "linear": "ButtonCheckLinearIcon"
+    }
+  },
+  {
     "name": "cabinet",
     "canonicalName": "cabinet",
     "category": "Furniture & Household",
@@ -11924,6 +12079,66 @@
     }
   },
   {
+    "name": "card-back-nfc",
+    "canonicalName": "card-back-nfc",
+    "category": "Shopping & Payment",
+    "aliases": [
+      "card-back-nfc",
+      "contactless",
+      "pay"
+    ],
+    "tags": [
+      "card",
+      "back",
+      "nfc",
+      "card-back-nfc",
+      "contactless",
+      "pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/card-back-nfc.svg",
+      "linear": "icons/linear/card-back-nfc.svg"
+    },
+    "components": {
+      "filled": "CardBackNfcFilledIcon",
+      "linear": "CardBackNfcLinearIcon"
+    }
+  },
+  {
+    "name": "card-chip-nfc",
+    "canonicalName": "card-chip-nfc",
+    "category": "Shopping & Payment",
+    "aliases": [
+      "card-chip-nfc",
+      "contactless",
+      "pay"
+    ],
+    "tags": [
+      "card",
+      "chip",
+      "nfc",
+      "card-chip-nfc",
+      "contactless",
+      "pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/card-chip-nfc.svg",
+      "linear": "icons/linear/card-chip-nfc.svg"
+    },
+    "components": {
+      "filled": "CardChipNfcFilledIcon",
+      "linear": "CardChipNfcLinearIcon"
+    }
+  },
+  {
     "name": "card-nfc",
     "canonicalName": "card-nfc",
     "category": "Shopping & Payment",
@@ -11948,6 +12163,64 @@
     "components": {
       "filled": "CardNfcFilledIcon",
       "linear": "CardNfcLinearIcon"
+    }
+  },
+  {
+    "name": "cards-back",
+    "canonicalName": "cards-back",
+    "category": "Shopping & Payment",
+    "aliases": [
+      "cards-back",
+      "cards-stacked",
+      "pay"
+    ],
+    "tags": [
+      "cards",
+      "back",
+      "cards-back",
+      "cards-stacked",
+      "pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/cards-back.svg",
+      "linear": "icons/linear/cards-back.svg"
+    },
+    "components": {
+      "filled": "CardsBackFilledIcon",
+      "linear": "CardsBackLinearIcon"
+    }
+  },
+  {
+    "name": "cards-chip",
+    "canonicalName": "cards-chip",
+    "category": "Shopping & Payment",
+    "aliases": [
+      "cards-chip",
+      "cards-stacked",
+      "pay"
+    ],
+    "tags": [
+      "cards",
+      "chip",
+      "cards-chip",
+      "cards-stacked",
+      "pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/cards-chip.svg",
+      "linear": "icons/linear/cards-chip.svg"
+    },
+    "components": {
+      "filled": "CardsChipFilledIcon",
+      "linear": "CardsChipLinearIcon"
     }
   },
   {
@@ -14589,12 +14862,14 @@
     "aliases": [
       "clapboard",
       "movie",
-      "film"
+      "film",
+      "video"
     ],
     "tags": [
       "clapboard",
       "movie",
-      "film"
+      "film",
+      "video"
     ],
     "styles": [
       "filled",
@@ -14607,6 +14882,43 @@
     "components": {
       "filled": "ClapboardFilledIcon",
       "linear": "ClapboardLinearIcon"
+    }
+  },
+  {
+    "name": "clapboard-open",
+    "canonicalName": "clapboard-open",
+    "category": "Photography & Video",
+    "aliases": [
+      "clapboard-open",
+      "movie",
+      "film",
+      "video",
+      "scene",
+      "cut",
+      "action"
+    ],
+    "tags": [
+      "clapboard",
+      "open",
+      "clapboard-open",
+      "movie",
+      "film",
+      "video",
+      "scene",
+      "cut",
+      "action"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/clapboard-open.svg",
+      "linear": "icons/linear/clapboard-open.svg"
+    },
+    "components": {
+      "filled": "ClapboardOpenFilledIcon",
+      "linear": "ClapboardOpenLinearIcon"
     }
   },
   {
@@ -14647,14 +14959,16 @@
     "aliases": [
       "clapboard-wide",
       "movie",
-      "film"
+      "film",
+      "video"
     ],
     "tags": [
       "clapboard",
       "wide",
       "clapboard-wide",
       "movie",
-      "film"
+      "film",
+      "video"
     ],
     "styles": [
       "filled",
@@ -14742,6 +15056,32 @@
     "components": {
       "filled": "ClawdFilledIcon",
       "linear": "ClawdLinearIcon"
+    }
+  },
+  {
+    "name": "click-to-pay",
+    "canonicalName": "click-to-pay",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "click-to-pay"
+    ],
+    "tags": [
+      "click",
+      "to",
+      "pay",
+      "click-to-pay"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/click-to-pay.svg",
+      "linear": "icons/linear/click-to-pay.svg"
+    },
+    "components": {
+      "filled": "ClickToPayFilledIcon",
+      "linear": "ClickToPayLinearIcon"
     }
   },
   {
@@ -17209,6 +17549,31 @@
     "components": {
       "filled": "ConstructionHelmetFilledIcon",
       "linear": "ConstructionHelmetLinearIcon"
+    }
+  },
+  {
+    "name": "contactless-payment",
+    "canonicalName": "contactless-payment",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "contactless-payment"
+    ],
+    "tags": [
+      "contactless",
+      "payment",
+      "contactless-payment"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/contactless-payment.svg",
+      "linear": "icons/linear/contactless-payment.svg"
+    },
+    "components": {
+      "filled": "ContactlessPaymentFilledIcon",
+      "linear": "ContactlessPaymentLinearIcon"
     }
   },
   {
@@ -26441,6 +26806,65 @@
     }
   },
   {
+    "name": "gantt-chart",
+    "canonicalName": "gantt-chart",
+    "category": "Statistics & Charts",
+    "aliases": [
+      "gantt-chart",
+      "timeline",
+      "planing"
+    ],
+    "tags": [
+      "gantt",
+      "chart",
+      "gantt-chart",
+      "timeline",
+      "planing"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/gantt-chart.svg",
+      "linear": "icons/linear/gantt-chart.svg"
+    },
+    "components": {
+      "filled": "GanttChartFilledIcon",
+      "linear": "GanttChartLinearIcon"
+    }
+  },
+  {
+    "name": "gantt-chart-2",
+    "canonicalName": "gantt-chart-2",
+    "category": "Statistics & Charts",
+    "aliases": [
+      "gantt-chart-2",
+      "timeline",
+      "planing"
+    ],
+    "tags": [
+      "gantt",
+      "chart",
+      "2",
+      "gantt-chart-2",
+      "timeline",
+      "planing"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/gantt-chart-2.svg",
+      "linear": "icons/linear/gantt-chart-2.svg"
+    },
+    "components": {
+      "filled": "GanttChart2FilledIcon",
+      "linear": "GanttChart2LinearIcon"
+    }
+  },
+  {
     "name": "garage",
     "canonicalName": "garage",
     "category": "Building",
@@ -27621,6 +28045,31 @@
     }
   },
   {
+    "name": "grok-bot",
+    "canonicalName": "grok-bot",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "grok-bot"
+    ],
+    "tags": [
+      "grok",
+      "bot",
+      "grok-bot"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/grok-bot.svg",
+      "linear": "icons/linear/grok-bot.svg"
+    },
+    "components": {
+      "filled": "GrokBotFilledIcon",
+      "linear": "GrokBotLinearIcon"
+    }
+  },
+  {
     "name": "group1",
     "canonicalName": "group-1",
     "category": "People",
@@ -27908,6 +28357,32 @@
     }
   },
   {
+    "name": "hand-ai-harness",
+    "canonicalName": "hand-ai-harness",
+    "category": "Hands",
+    "aliases": [
+      "hand-ai-harness"
+    ],
+    "tags": [
+      "hand",
+      "ai",
+      "harness",
+      "hand-ai-harness"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/hand-ai-harness.svg",
+      "linear": "icons/linear/hand-ai-harness.svg"
+    },
+    "components": {
+      "filled": "HandAiHarnessFilledIcon",
+      "linear": "HandAiHarnessLinearIcon"
+    }
+  },
+  {
     "name": "hand-bell",
     "canonicalName": "hand-bell",
     "category": "Interface General",
@@ -27930,6 +28405,31 @@
     "components": {
       "filled": "HandBellFilledIcon",
       "linear": "HandBellLinearIcon"
+    }
+  },
+  {
+    "name": "hand-heart",
+    "canonicalName": "hand-heart",
+    "category": "Hands",
+    "aliases": [
+      "hand-heart"
+    ],
+    "tags": [
+      "hand",
+      "heart",
+      "hand-heart"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/hand-heart.svg",
+      "linear": "icons/linear/hand-heart.svg"
+    },
+    "components": {
+      "filled": "HandHeartFilledIcon",
+      "linear": "HandHeartLinearIcon"
     }
   },
   {
@@ -29284,6 +29784,35 @@
     "components": {
       "filled": "IconistsFilledIcon",
       "linear": "IconistsLinearIcon"
+    }
+  },
+  {
+    "name": "ideas",
+    "canonicalName": "ideas",
+    "category": "Interface General",
+    "aliases": [
+      "ideas",
+      "smart",
+      "lightbulb",
+      "reasoning"
+    ],
+    "tags": [
+      "ideas",
+      "smart",
+      "lightbulb",
+      "reasoning"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/ideas.svg",
+      "linear": "icons/linear/ideas.svg"
+    },
+    "components": {
+      "filled": "IdeasFilledIcon",
+      "linear": "IdeasLinearIcon"
     }
   },
   {
@@ -30760,6 +31289,31 @@
     "components": {
       "filled": "KimiFilledIcon",
       "linear": "KimiLinearIcon"
+    }
+  },
+  {
+    "name": "kimi-bot",
+    "canonicalName": "kimi-bot",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "kimi-bot"
+    ],
+    "tags": [
+      "kimi",
+      "bot",
+      "kimi-bot"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/kimi-bot.svg",
+      "linear": "icons/linear/kimi-bot.svg"
+    },
+    "components": {
+      "filled": "KimiBotFilledIcon",
+      "linear": "KimiBotLinearIcon"
     }
   },
   {
@@ -32417,6 +32971,29 @@
     }
   },
   {
+    "name": "linux",
+    "canonicalName": "linux",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "linux"
+    ],
+    "tags": [
+      "linux"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/linux.svg",
+      "linear": "icons/linear/linux.svg"
+    },
+    "components": {
+      "filled": "LinuxFilledIcon",
+      "linear": "LinuxLinearIcon"
+    }
+  },
+  {
     "name": "liquid-glass",
     "canonicalName": "liquid-glass",
     "category": "Filter & Settings",
@@ -32968,6 +33545,66 @@
     "components": {
       "filled": "MacbookAirFilledIcon",
       "linear": "MacbookAirLinearIcon"
+    }
+  },
+  {
+    "name": "macbook-pro",
+    "canonicalName": "macbook-pro",
+    "category": "Devices & Signals",
+    "aliases": [
+      "macbook-pro",
+      "laptop",
+      "computer"
+    ],
+    "tags": [
+      "macbook",
+      "pro",
+      "macbook-pro",
+      "laptop",
+      "computer"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/macbook-pro.svg",
+      "linear": "icons/linear/macbook-pro.svg"
+    },
+    "components": {
+      "filled": "MacbookProFilledIcon",
+      "linear": "MacbookProLinearIcon"
+    }
+  },
+  {
+    "name": "macbook-remote",
+    "canonicalName": "macbook-remote",
+    "category": "Devices & Signals",
+    "aliases": [
+      "macbook-remote",
+      "laptop",
+      "computer",
+      "remote-control"
+    ],
+    "tags": [
+      "macbook",
+      "remote",
+      "macbook-remote",
+      "laptop",
+      "computer",
+      "remote-control"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/macbook-remote.svg",
+      "linear": "icons/linear/macbook-remote.svg"
+    },
+    "components": {
+      "filled": "MacbookRemoteFilledIcon",
+      "linear": "MacbookRemoteLinearIcon"
     }
   },
   {
@@ -34542,6 +35179,29 @@
     }
   },
   {
+    "name": "microsoft",
+    "canonicalName": "microsoft",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "microsoft"
+    ],
+    "tags": [
+      "microsoft"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/microsoft.svg",
+      "linear": "icons/linear/microsoft.svg"
+    },
+    "components": {
+      "filled": "MicrosoftFilledIcon",
+      "linear": "MicrosoftLinearIcon"
+    }
+  },
+  {
     "name": "microsoft-copilot",
     "canonicalName": "microsoft-copilot",
     "category": "Social Media & Brands",
@@ -35309,6 +35969,31 @@
     }
   },
   {
+    "name": "muse-ai",
+    "canonicalName": "muse-ai",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "muse-ai"
+    ],
+    "tags": [
+      "muse",
+      "ai",
+      "muse-ai"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/muse-ai.svg",
+      "linear": "icons/linear/muse-ai.svg"
+    },
+    "components": {
+      "filled": "MuseAiFilledIcon",
+      "linear": "MuseAiLinearIcon"
+    }
+  },
+  {
     "name": "mute",
     "canonicalName": "mute",
     "category": "Sound & Music",
@@ -35567,6 +36252,33 @@
     "components": {
       "filled": "NintendoSwitchFilledIcon",
       "linear": "NintendoSwitchLinearIcon"
+    }
+  },
+  {
+    "name": "no-ai",
+    "canonicalName": "no-ai",
+    "category": "AI & Magic",
+    "aliases": [
+      "no-ai",
+      "no-si"
+    ],
+    "tags": [
+      "no",
+      "ai",
+      "no-ai",
+      "no-si"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/no-ai.svg",
+      "linear": "icons/linear/no-ai.svg"
+    },
+    "components": {
+      "filled": "NoAiFilledIcon",
+      "linear": "NoAiLinearIcon"
     }
   },
   {
@@ -38815,6 +39527,37 @@
     "components": {
       "filled": "Pencil3FilledIcon",
       "linear": "Pencil3LinearIcon"
+    }
+  },
+  {
+    "name": "pendant-lamp",
+    "canonicalName": "pendant-lamp",
+    "category": "Things",
+    "aliases": [
+      "pendant-lamp",
+      "interior",
+      "light",
+      "home"
+    ],
+    "tags": [
+      "pendant",
+      "lamp",
+      "pendant-lamp",
+      "interior",
+      "light",
+      "home"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/pendant-lamp.svg",
+      "linear": "icons/linear/pendant-lamp.svg"
+    },
+    "components": {
+      "filled": "PendantLampFilledIcon",
+      "linear": "PendantLampLinearIcon"
     }
   },
   {
@@ -57366,6 +58109,29 @@
     }
   },
   {
+    "name": "windows",
+    "canonicalName": "windows",
+    "category": "Social Media & Brands",
+    "aliases": [
+      "windows"
+    ],
+    "tags": [
+      "windows"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/windows.svg",
+      "linear": "icons/linear/windows.svg"
+    },
+    "components": {
+      "filled": "WindowsFilledIcon",
+      "linear": "WindowsLinearIcon"
+    }
+  },
+  {
     "name": "windsurf",
     "canonicalName": "windsurf",
     "category": "Social Media & Brands",
@@ -57442,6 +58208,31 @@
     "components": {
       "filled": "WizardHatFilledIcon",
       "linear": "WizardHatLinearIcon"
+    }
+  },
+  {
+    "name": "wood",
+    "canonicalName": "wood",
+    "category": "Things",
+    "aliases": [
+      "wood",
+      "material"
+    ],
+    "tags": [
+      "wood",
+      "material"
+    ],
+    "styles": [
+      "filled",
+      "linear"
+    ],
+    "files": {
+      "filled": "icons/filled/wood.svg",
+      "linear": "icons/linear/wood.svg"
+    },
+    "components": {
+      "filled": "WoodFilledIcon",
+      "linear": "WoodLinearIcon"
     }
   },
   {

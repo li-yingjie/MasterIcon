@@ -1,7 +1,7 @@
 {
   "source": "https://centralicons.com/",
-  "syncedAt": "2026-10-14",
-  "count": 2124,
+  "syncedAt": "2026-10-30",
+  "count": 2153,
   "icons": {
     "3d": {
       "canonicalName": "3d",
@@ -220,6 +220,14 @@
         "agent"
       ],
       "createdAt": "2026-10-07T07:02:04.265116+00:00"
+    },
+    "ai-harness-diamond": {
+      "canonicalName": "ai-harness-diamond",
+      "category": "AI & Magic",
+      "aliases": [
+        "ai-harness-diamond"
+      ],
+      "createdAt": "2026-10-14T13:02:01.712608+00:00"
     },
     "ai-slop": {
       "canonicalName": "ai-slop",
@@ -530,6 +538,14 @@
       ],
       "createdAt": "2025-02-15T21:11:34.177092+00:00"
     },
+    "android": {
+      "canonicalName": "android",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "android"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "angularjs": {
       "canonicalName": "angularjs",
       "category": "Social Media & Brands",
@@ -743,6 +759,14 @@
         "fall"
       ],
       "createdAt": "2025-02-15T21:11:34.211695+00:00"
+    },
+    "apple-pay": {
+      "canonicalName": "apple-pay",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "apple-pay"
+      ],
+      "createdAt": "2026-10-22T08:02:03.615+00:00"
     },
     "apple-spring": {
       "canonicalName": "apple-spring",
@@ -2181,6 +2205,15 @@
       ],
       "createdAt": "2025-02-15T21:11:34.015576+00:00"
     },
+    "beauty": {
+      "canonicalName": "beauty",
+      "category": "Things",
+      "aliases": [
+        "beauty",
+        "mirror"
+      ],
+      "createdAt": "2026-10-20T12:02:12.554999+00:00"
+    },
     "beceps-left-arm": {
       "canonicalName": "beceps-left-arm",
       "category": "Hands",
@@ -2857,6 +2890,16 @@
       ],
       "createdAt": "2025-02-15T21:11:34.141637+00:00"
     },
+    "boxing": {
+      "canonicalName": "boxing",
+      "category": "Sports",
+      "aliases": [
+        "boxing",
+        "fighting",
+        "power"
+      ],
+      "createdAt": "2026-10-20T12:02:12.554999+00:00"
+    },
     "brackets1": {
       "canonicalName": "brackets-1",
       "category": "Code",
@@ -3445,6 +3488,16 @@
       ],
       "createdAt": "2025-04-08T16:52:39.787106+00:00"
     },
+    "button-check": {
+      "canonicalName": "button-check",
+      "category": "Things",
+      "aliases": [
+        "button-check",
+        "save",
+        "actions"
+      ],
+      "createdAt": "2026-10-16T11:02:02.962364+00:00"
+    },
     "cabinet": {
       "canonicalName": "cabinet",
       "category": "Furniture & Household",
@@ -4017,6 +4070,26 @@
       ],
       "createdAt": "2026-04-27T10:02:27.997505+00:00"
     },
+    "card-back-nfc": {
+      "canonicalName": "card-back-nfc",
+      "category": "Shopping & Payment",
+      "aliases": [
+        "card-back-nfc",
+        "contactless",
+        "pay"
+      ],
+      "createdAt": "2026-10-22T14:02:07.470793+00:00"
+    },
+    "card-chip-nfc": {
+      "canonicalName": "card-chip-nfc",
+      "category": "Shopping & Payment",
+      "aliases": [
+        "card-chip-nfc",
+        "contactless",
+        "pay"
+      ],
+      "createdAt": "2026-10-22T14:02:07.470793+00:00"
+    },
     "card-nfc": {
       "canonicalName": "card-nfc",
       "category": "Shopping & Payment",
@@ -4025,6 +4098,26 @@
         "payment"
       ],
       "createdAt": "2026-06-16T20:03:01.058708+00:00"
+    },
+    "cards-back": {
+      "canonicalName": "cards-back",
+      "category": "Shopping & Payment",
+      "aliases": [
+        "cards-back",
+        "cards-stacked",
+        "pay"
+      ],
+      "createdAt": "2026-10-22T14:02:07.470793+00:00"
+    },
+    "cards-chip": {
+      "canonicalName": "cards-chip",
+      "category": "Shopping & Payment",
+      "aliases": [
+        "cards-chip",
+        "cards-stacked",
+        "pay"
+      ],
+      "createdAt": "2026-10-22T14:02:07.470793+00:00"
     },
     "carussel": {
       "canonicalName": "carussel",
@@ -4922,9 +5015,24 @@
       "aliases": [
         "clapboard",
         "movie",
-        "film"
+        "film",
+        "video"
       ],
       "createdAt": "2025-12-20T00:02:02.860952+00:00"
+    },
+    "clapboard-open": {
+      "canonicalName": "clapboard-open",
+      "category": "Photography & Video",
+      "aliases": [
+        "clapboard-open",
+        "movie",
+        "film",
+        "video",
+        "scene",
+        "cut",
+        "action"
+      ],
+      "createdAt": "2026-10-14T13:02:01.712608+00:00"
     },
     "clapboard-sparkle": {
       "canonicalName": "clapboard-sparkle",
@@ -4943,7 +5051,8 @@
       "aliases": [
         "clapboard-wide",
         "movie",
-        "film"
+        "film",
+        "video"
       ],
       "createdAt": "2025-12-20T00:02:02.860952+00:00"
     },
@@ -4973,6 +5082,14 @@
         "clawd"
       ],
       "createdAt": "2026-04-19T08:01:51.878519+00:00"
+    },
+    "click-to-pay": {
+      "canonicalName": "click-to-pay",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "click-to-pay"
+      ],
+      "createdAt": "2026-10-22T08:02:03.615+00:00"
     },
     "clipboard": {
       "canonicalName": "clipboard",
@@ -5807,6 +5924,14 @@
         "wip"
       ],
       "createdAt": "2025-02-15T21:11:34.015576+00:00"
+    },
+    "contactless-payment": {
+      "canonicalName": "contactless-payment",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "contactless-payment"
+      ],
+      "createdAt": "2026-10-24T16:02:32.227074+00:00"
     },
     "contacts": {
       "canonicalName": "contacts",
@@ -8898,6 +9023,26 @@
       ],
       "createdAt": "2025-02-15T21:11:33.972065+00:00"
     },
+    "gantt-chart": {
+      "canonicalName": "gantt-chart",
+      "category": "Statistics & Charts",
+      "aliases": [
+        "gantt-chart",
+        "timeline",
+        "planing"
+      ],
+      "createdAt": "2026-10-19T11:02:02.221857+00:00"
+    },
+    "gantt-chart-2": {
+      "canonicalName": "gantt-chart-2",
+      "category": "Statistics & Charts",
+      "aliases": [
+        "gantt-chart-2",
+        "timeline",
+        "planing"
+      ],
+      "createdAt": "2026-10-19T11:02:02.221857+00:00"
+    },
     "garage": {
       "canonicalName": "garage",
       "category": "Building",
@@ -9309,6 +9454,14 @@
       ],
       "createdAt": "2025-04-09T18:56:28.743322+00:00"
     },
+    "grok-bot": {
+      "canonicalName": "grok-bot",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "grok-bot"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "group1": {
       "canonicalName": "group-1",
       "category": "People",
@@ -9411,6 +9564,14 @@
       ],
       "createdAt": "2026-02-02T13:00:24.339591+00:00"
     },
+    "hand-ai-harness": {
+      "canonicalName": "hand-ai-harness",
+      "category": "Hands",
+      "aliases": [
+        "hand-ai-harness"
+      ],
+      "createdAt": "2026-10-14T13:02:01.712608+00:00"
+    },
     "hand-bell": {
       "canonicalName": "hand-bell",
       "category": "Interface General",
@@ -9418,6 +9579,14 @@
         "hand-bell"
       ],
       "createdAt": "2025-02-15T21:11:34.141637+00:00"
+    },
+    "hand-heart": {
+      "canonicalName": "hand-heart",
+      "category": "Hands",
+      "aliases": [
+        "hand-heart"
+      ],
+      "createdAt": "2026-10-14T13:02:01.712608+00:00"
     },
     "hand-touch": {
       "canonicalName": "hand-touch",
@@ -9885,6 +10054,17 @@
         "iconists"
       ],
       "createdAt": "2026-01-17T09:03:18.498678+00:00"
+    },
+    "ideas": {
+      "canonicalName": "ideas",
+      "category": "Interface General",
+      "aliases": [
+        "ideas",
+        "smart",
+        "lightbulb",
+        "reasoning"
+      ],
+      "createdAt": "2026-10-16T11:02:02.962364+00:00"
     },
     "illustration": {
       "canonicalName": "illustration",
@@ -10397,6 +10577,14 @@
         "kimi"
       ],
       "createdAt": "2026-07-29T21:03:06.561869+00:00"
+    },
+    "kimi-bot": {
+      "canonicalName": "kimi-bot",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "kimi-bot"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
     },
     "lab": {
       "canonicalName": "lab",
@@ -10964,6 +11152,14 @@
       ],
       "createdAt": "2025-04-09T18:56:28.743322+00:00"
     },
+    "linux": {
+      "canonicalName": "linux",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "linux"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "liquid-glass": {
       "canonicalName": "liquid-glass",
       "category": "Filter & Settings",
@@ -11151,6 +11347,27 @@
         "macbook-air"
       ],
       "createdAt": "2025-02-15T21:11:33.738336+00:00"
+    },
+    "macbook-pro": {
+      "canonicalName": "macbook-pro",
+      "category": "Devices & Signals",
+      "aliases": [
+        "macbook-pro",
+        "laptop",
+        "computer"
+      ],
+      "createdAt": "2026-10-20T11:02:01.635265+00:00"
+    },
+    "macbook-remote": {
+      "canonicalName": "macbook-remote",
+      "category": "Devices & Signals",
+      "aliases": [
+        "macbook-remote",
+        "laptop",
+        "computer",
+        "remote-control"
+      ],
+      "createdAt": "2026-10-16T11:02:02.962364+00:00"
     },
     "macintosh": {
       "canonicalName": "macintosh",
@@ -11681,6 +11898,14 @@
       ],
       "createdAt": "2025-11-25T11:02:10.148467+00:00"
     },
+    "microsoft": {
+      "canonicalName": "microsoft",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "microsoft"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "microsoft-copilot": {
       "canonicalName": "microsoft-copilot",
       "category": "Social Media & Brands",
@@ -11944,6 +12169,14 @@
       ],
       "createdAt": "2026-09-23T11:02:03.861583+00:00"
     },
+    "muse-ai": {
+      "canonicalName": "muse-ai",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "muse-ai"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "mute": {
       "canonicalName": "mute",
       "category": "Sound & Music",
@@ -12034,6 +12267,15 @@
         "nintendo-switch"
       ],
       "createdAt": "2025-04-09T18:56:28.743322+00:00"
+    },
+    "no-ai": {
+      "canonicalName": "no-ai",
+      "category": "AI & Magic",
+      "aliases": [
+        "no-ai",
+        "no-si"
+      ],
+      "createdAt": "2026-10-15T09:02:02.7719+00:00"
     },
     "no-flash": {
       "canonicalName": "no-flash",
@@ -13131,6 +13373,17 @@
         "prompt"
       ],
       "createdAt": "2026-02-13T09:00:26.192615+00:00"
+    },
+    "pendant-lamp": {
+      "canonicalName": "pendant-lamp",
+      "category": "Things",
+      "aliases": [
+        "pendant-lamp",
+        "interior",
+        "light",
+        "home"
+      ],
+      "createdAt": "2026-10-24T16:02:32.227074+00:00"
     },
     "people": {
       "canonicalName": "people",
@@ -19519,6 +19772,14 @@
       ],
       "createdAt": "2025-02-15T21:11:34.177092+00:00"
     },
+    "windows": {
+      "canonicalName": "windows",
+      "category": "Social Media & Brands",
+      "aliases": [
+        "windows"
+      ],
+      "createdAt": "2026-10-20T13:02:37.046897+00:00"
+    },
     "windsurf": {
       "canonicalName": "windsurf",
       "category": "Social Media & Brands",
@@ -19546,6 +19807,15 @@
         "fantasy"
       ],
       "createdAt": "2025-02-15T21:11:34.141637+00:00"
+    },
+    "wood": {
+      "canonicalName": "wood",
+      "category": "Things",
+      "aliases": [
+        "wood",
+        "material"
+      ],
+      "createdAt": "2026-10-20T12:02:12.554999+00:00"
     },
     "world": {
       "canonicalName": "world",

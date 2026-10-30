@@ -56,6 +56,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
+    "sync:central": "node scripts/sync-central-icons.mjs",
     "prepare": "node scripts/build.mjs"
   },
   "peerDependencies": {

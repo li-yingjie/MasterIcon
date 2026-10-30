@@ -21,6 +21,13 @@
     ]
   },
   {
+    "hash": "1cb82056b3e48d6931b79c487730d367f32857cd23fab9814673241b92169a86",
+    "files": [
+      "icons/filled/android.svg",
+      "icons/linear/android.svg"
+    ]
+  },
+  {
     "hash": "06211f035ad955e0ae683d0bd48ab128406cf54337d06556d71a4bc1900bd8da",
     "files": [
       "icons/filled/angularjs.svg",
@@ -53,6 +60,13 @@
     "files": [
       "icons/filled/apple-music.svg",
       "icons/linear/apple-music.svg"
+    ]
+  },
+  {
+    "hash": "85368bb93d5d752e4fc8120f4490047aabc936dd5f4e8e90b699f2f0bfcde2fc",
+    "files": [
+      "icons/filled/apple-pay.svg",
+      "icons/linear/apple-pay.svg"
     ]
   },
   {
@@ -91,10 +105,17 @@
     ]
   },
   {
-    "hash": "8c22246f9ce07f16eee4c643cc85716cbcf65bbc805567e3c53956ef4ded5fbc",
+    "hash": "b3b04728f1fbac3c6e30ff251b69dd331283670cbf85a107b2efc251d2919456",
+    "files": [
+      "icons/filled/arrow-split-down.svg",
+      "icons/filled/arrow-split-down1.svg"
+    ]
+  },
+  {
+    "hash": "cb4950876186c25ebf539f8d6b253401e0ee4a3800750c7a179e7da589c13ac2",
     "files": [
       "icons/filled/arrows-all-sides2.svg",
-      "icons/filled/full-screen.svg"
+      "icons/filled/arrows-all-sides21.svg"
     ]
   },
   {
@@ -102,6 +123,13 @@
     "files": [
       "icons/filled/artifact-news.svg",
       "icons/linear/artifact-news.svg"
+    ]
+  },
+  {
+    "hash": "130de3d500c20df3b758a204249bc9fb17c5d6989b3fca95aa3c6a4f1e7f02f1",
+    "files": [
+      "icons/filled/aspect-ratio34.svg",
+      "icons/filled/page-empty.svg"
     ]
   },
   {
@@ -123,6 +151,13 @@
     "files": [
       "icons/filled/behance.svg",
       "icons/linear/behance.svg"
+    ]
+  },
+  {
+    "hash": "81457d217934713e95393cd4c35d1bd6c25e3a03b10386d205c4edfa71468cd4",
+    "files": [
+      "icons/filled/bezier-curves.svg",
+      "icons/filled/bezier-curves1.svg"
     ]
   },
   {
@@ -158,6 +193,13 @@
     "files": [
       "icons/filled/bolt.svg",
       "icons/linear/bolt.svg"
+    ]
+  },
+  {
+    "hash": "ea52b2557d49febfbeb12c56ac81c12cda38c4f6d0d8a267b40ae7cb1f4f1964",
+    "files": [
+      "icons/filled/bubble-sparkle.svg",
+      "icons/filled/bubble-sparkle1.svg"
     ]
   },
   {
@@ -203,6 +245,13 @@
     ]
   },
   {
+    "hash": "7b7e6cad2197bfdedcd42426ebb574f54317d63f3201b4971d430040453a9c2b",
+    "files": [
+      "icons/filled/click-to-pay.svg",
+      "icons/linear/click-to-pay.svg"
+    ]
+  },
+  {
     "hash": "6b5142e97c4e188588976971c825c1dbe27fd17c790df85121ffec6977da9ae4",
     "files": [
       "icons/filled/cloud-simple.svg",
@@ -221,6 +270,20 @@
     "files": [
       "icons/filled/confluence.svg",
       "icons/linear/confluence.svg"
+    ]
+  },
+  {
+    "hash": "c56474b7a990b809ab23e9b1f8252c14636a37138015166bf32e8c097b07252f",
+    "files": [
+      "icons/filled/console-simple.svg",
+      "icons/filled/console-simple1.svg"
+    ]
+  },
+  {
+    "hash": "9973ae5d4a77b4d617951e529d7921d65507e8e741a0a7d0ae43d05816e113b1",
+    "files": [
+      "icons/filled/contactless-payment.svg",
+      "icons/linear/contactless-payment.svg"
     ]
   },
   {
@@ -497,6 +560,13 @@
     ]
   },
   {
+    "hash": "8178bfd476e748a29d108c2e3e0a2d0cfe39fbdb794b796c3021e5dc8b54a1c3",
+    "files": [
+      "icons/filled/grok-bot.svg",
+      "icons/linear/grok-bot.svg"
+    ]
+  },
+  {
     "hash": "4762f837769bf4a6f0962e13d0405d2be70076f903b73bb089d2627af002066e",
     "files": [
       "icons/filled/grok.svg",
@@ -522,6 +592,13 @@
     "files": [
       "icons/filled/iconists.svg",
       "icons/linear/iconists.svg"
+    ]
+  },
+  {
+    "hash": "d2d085fe0ce7f6e08dba46939ffce99614eadc31823c1f1cba66b9056a0f86aa",
+    "files": [
+      "icons/filled/images4.svg",
+      "icons/filled/images41.svg"
     ]
   },
   {
@@ -581,6 +658,13 @@
     ]
   },
   {
+    "hash": "3f0f9776682ec1f9b81797aa894566b1d4ee65da77a08bfe06db914afb0950cd",
+    "files": [
+      "icons/filled/kimi-bot.svg",
+      "icons/linear/kimi-bot.svg"
+    ]
+  },
+  {
     "hash": "55115abcdf07f6a91b9d9965358b066c40bddbcf033710c26560560944eed9b6",
     "files": [
       "icons/filled/kimi.svg",
@@ -616,6 +700,13 @@
     ]
   },
   {
+    "hash": "bc7293934db40252cc3becc76ee43f2638880fff9945b32c2178f3484fff8370",
+    "files": [
+      "icons/filled/linux.svg",
+      "icons/linear/linux.svg"
+    ]
+  },
+  {
     "hash": "77caaf8d20c2f36d4f1e1c044fbc3bb0d59a67efa4e896b67ca4d3f78bb4b2cd",
     "files": [
       "icons/filled/lottielab.svg",
@@ -630,10 +721,24 @@
     ]
   },
   {
+    "hash": "d106214787749fd76de30a9787d4085cc9eeac20b086c7ca4d3e8813e14323c6",
+    "files": [
+      "icons/filled/macbook-pro.svg",
+      "icons/filled/macbook.svg"
+    ]
+  },
+  {
     "hash": "e720560ae2ca2d19cae654c928485a46f84d7fe5a56c596d9c1e2d1392e4df04",
     "files": [
       "icons/filled/manus-ai.svg",
       "icons/linear/manus-ai.svg"
+    ]
+  },
+  {
+    "hash": "7ff2a83dee1d71a7f33555f5841ef83b00c51164fd25d9b0775dc7d16eb8fb65",
+    "files": [
+      "icons/filled/mask.svg",
+      "icons/filled/mask1.svg"
     ]
   },
   {
@@ -658,10 +763,17 @@
     ]
   },
   {
-    "hash": "95f6e6d41a9b448d0253f5730c358728da5f214bfefc441bd11c2f2535abac10",
+    "hash": "772ad04e3a2ad5e75b340316280e85f9988c19670572f74e9f567ccfb1be5c23",
     "files": [
       "icons/filled/microsoft-copilot.svg",
       "icons/linear/microsoft-copilot.svg"
+    ]
+  },
+  {
+    "hash": "7b132f2a5fdd92509149b9b9eab6d74132e3a8e219385c6b04ce7ac483ddc266",
+    "files": [
+      "icons/filled/microsoft.svg",
+      "icons/linear/microsoft.svg"
     ]
   },
   {
@@ -690,6 +802,13 @@
     "files": [
       "icons/filled/modelcontextprotocol.svg",
       "icons/linear/modelcontextprotocol.svg"
+    ]
+  },
+  {
+    "hash": "c552c5b58506cd381245dedad98d41a9571f3fe05c2f354a86ec6b1cc6f4772e",
+    "files": [
+      "icons/filled/muse-ai.svg",
+      "icons/linear/muse-ai.svg"
     ]
   },
   {
@@ -889,6 +1008,13 @@
     ]
   },
   {
+    "hash": "4b51ea9aabf207277ccb468848a86b4225bffffdc602035474f9eaaf99986121",
+    "files": [
+      "icons/filled/prompt.svg",
+      "icons/filled/prompt1.svg"
+    ]
+  },
+  {
     "hash": "d27cf4b0755f9ca36de477c2b03315451950b65828dd1fc0377e4ab1f57262a5",
     "files": [
       "icons/filled/quora.svg",
@@ -907,6 +1033,13 @@
     "files": [
       "icons/filled/qwik.svg",
       "icons/linear/qwik.svg"
+    ]
+  },
+  {
+    "hash": "bbccb456ac66fe1ce1ddf48e66a15024897aaa2cb6d0b0f0eb7bf6042b8e07e6",
+    "files": [
+      "icons/filled/radar.svg",
+      "icons/filled/radar1.svg"
     ]
   },
   {
@@ -1113,6 +1246,20 @@
     ]
   },
   {
+    "hash": "1b6e6c54a5091c1bbc2943ee878e72ab279e157f886f735fa2d9ed5b18ca425e",
+    "files": [
+      "icons/filled/steering-wheel.svg",
+      "icons/filled/steering-wheel1.svg"
+    ]
+  },
+  {
+    "hash": "662141d3ff230ea1d5ecced1ac06ee9dd63c585a44a7af97df74809e8c9b656e",
+    "files": [
+      "icons/filled/studio-display.svg",
+      "icons/filled/studio-display1.svg"
+    ]
+  },
+  {
     "hash": "e1e1e8cb13777c3d883e8a7f8d135306e3207116e67a1a9791b74ac5f7d59356",
     "files": [
       "icons/filled/substack.svg",
@@ -1274,6 +1421,13 @@
     ]
   },
   {
+    "hash": "e4360298f5d4c073ade2ac48da177dd3176283681ac3dbfff74eac1511940def",
+    "files": [
+      "icons/filled/windows.svg",
+      "icons/linear/windows.svg"
+    ]
+  },
+  {
     "hash": "f9b5de71a21c1a3f219e0f3fadf3b8264ece6da8656b689c611b48822ec063a5",
     "files": [
       "icons/filled/windsurf.svg",
@@ -1309,17 +1463,24 @@
     ]
   },
   {
-    "hash": "f6bf16a8622ec96c87aae8bfb66f4e52d400f45cded0e4b692043ce956d0016e",
+    "hash": "1dd857b0b1bec22e01bdb9856f3c199aad46da805b1eb004d3baebcb42aaaf86",
     "files": [
-      "icons/linear/arrow-left-right.svg",
-      "icons/linear/arrow-right-left.svg"
+      "icons/linear/arrow-split-down.svg",
+      "icons/linear/arrow-split-down1.svg"
     ]
   },
   {
-    "hash": "2f7b3ed6e63c6d8ac527f462aaafaf2bd40b9c428b1beb4263db5625bfa336b0",
+    "hash": "1b20910ea414927fc2454ec5013e7287ef9055f79609809625c72ce24ac72ade",
     "files": [
       "icons/linear/arrows-all-sides2.svg",
-      "icons/linear/full-screen.svg"
+      "icons/linear/arrows-all-sides21.svg"
+    ]
+  },
+  {
+    "hash": "c934df00976b852bf8dfb26ac6be949a28f1ca11ec3dec0e41161598527b2bd3",
+    "files": [
+      "icons/linear/bezier-curves.svg",
+      "icons/linear/bezier-curves1.svg"
     ]
   },
   {
@@ -1327,6 +1488,13 @@
     "files": [
       "icons/linear/box2-alt-fill.svg",
       "icons/linear/box2.svg"
+    ]
+  },
+  {
+    "hash": "7c15060680984a0141034a173bf37e4c32d21b4727c66508b27cce89785e384d",
+    "files": [
+      "icons/linear/bubble-sparkle.svg",
+      "icons/linear/bubble-sparkle1.svg"
     ]
   },
   {
@@ -1344,6 +1512,13 @@
     ]
   },
   {
+    "hash": "9ab0a8aafde58fb413144f239acbf0c21b03116187ead069eb32f76d7248c704",
+    "files": [
+      "icons/linear/console-simple.svg",
+      "icons/linear/console-simple1.svg"
+    ]
+  },
+  {
     "hash": "42106fae623e48680beb3a3ecb60af19a37897aa2c55dcc26ebadb33bb935db8",
     "files": [
       "icons/linear/edit-small1.svg",
@@ -1358,6 +1533,13 @@
     ]
   },
   {
+    "hash": "84293c61153a482924d63092c6c4bf50d0a186f56a48842e68c058f82cbd7fab",
+    "files": [
+      "icons/linear/images4.svg",
+      "icons/linear/images41.svg"
+    ]
+  },
+  {
     "hash": "dbf4866dc5c777b6a95b5745ab8f2c3035833c289c94af20dcf025b1d8cdf946",
     "files": [
       "icons/linear/magnifying-glass.svg",
@@ -1365,10 +1547,31 @@
     ]
   },
   {
+    "hash": "baf49a6e76ae7f39ad78133cd12080dd81ad9f199cf3b8480d46427d7fd7584c",
+    "files": [
+      "icons/linear/mask.svg",
+      "icons/linear/mask1.svg"
+    ]
+  },
+  {
     "hash": "6ff365d35486bfe7e38b06d737a15c501fdeaa439aaabfc4d4e27044bb71f56a",
     "files": [
       "icons/linear/package-delivery1.svg",
       "icons/linear/package-delivery2.svg"
+    ]
+  },
+  {
+    "hash": "4c8cce80e456f5d1d00d8a758b8decb3bf605b615da8e8eea79c6791e0565203",
+    "files": [
+      "icons/linear/prompt.svg",
+      "icons/linear/prompt1.svg"
+    ]
+  },
+  {
+    "hash": "4b0396e38cbdc58d28010b496b984f04a74db63ec2d95634b4ec8583ec47d31c",
+    "files": [
+      "icons/linear/radar.svg",
+      "icons/linear/radar1.svg"
     ]
   },
   {
@@ -1383,6 +1586,20 @@
     "files": [
       "icons/linear/square-placeholder.svg",
       "icons/linear/stop.svg"
+    ]
+  },
+  {
+    "hash": "b77dc3c815e11ad30fea773d73ec0ade51d4ff3de1e6e3b095bda0bbf91ed681",
+    "files": [
+      "icons/linear/steering-wheel.svg",
+      "icons/linear/steering-wheel1.svg"
+    ]
+  },
+  {
+    "hash": "2688b2d7c3874a846267c7ac9d912b2008e62c009402ecedf47b40b4bac798d9",
+    "files": [
+      "icons/linear/studio-display.svg",
+      "icons/linear/studio-display1.svg"
     ]
   }
 ]
